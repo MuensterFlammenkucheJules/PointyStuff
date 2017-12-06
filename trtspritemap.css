@@ -1,0 +1,786 @@
+/*
+*
+*  ___                                                                  ___                             
+* -   ---___- ,,                -__ /\                      |\         -   ---___-       ,,    ,,       
+*    (' ||    ||                  || \,                      \\           (' ||      _   ||    ||       
+*   ((  ||    ||/\\  _-_         /|| /    /'\\ \\ \\ \\/\\  / \\         ((  ||     < \, ||/|, ||  _-_  
+*  ((   ||    || || || \\        \||/-   || || || || || || || ||        ((   ||     /-|| || || || || \\ 
+*   (( //     || || ||/           ||  \  || || || || || || || ||         (( //     (( || || |' || ||/   
+*     -____-  \\ |/ \\,/        _---_-|, \\,/  \\/\\ \\ \\  \\/            -____-   \/\\ \\/   \\ \\,/  
+*               _/                                                                                      
+*                                                                                                       
+* The ZT2 Round Table -- Sprite Map
+* Copyright (C) 2013-2015 
+* http://thezt2roundtable.com    -    http://s11.zetaboards.com/the_zt2_round_table
+* The images included in this document and the image delivery service used on this forum are 
+* subject to the End User License Agreement entered into by the website owner. The graphics are 
+* protected under domestic and international trademark and copyright law. 
+* All parties other than the owners of this website are prohibited from using this code and from using, 
+* modifying, reverse engineering, duplicating, or distributing the images in this document.
+*/
+
+
+
+
+
+
+/* Badges */
+
+.african-adventures, .back-to-school, .blue-tournament, .bronze-medal, .bronze-poster, 
+.bronze-purchase, .bronze-rtzi-member, .christmas-countdown, .community-extension, .custom-artist, 
+.custom, .divers-licence, .endangered-species, .extinct-animals, .gold-medal, 
+.gold-poster, .gold-purchase, .gold-rtzi-member, .green-tournament, .high-tide-carnival, 
+.marathon-i-star, .marathon-i, .marathon-ii-star, .marathon-ii, .marathon-iii-star, 
+.marathon-iii, .marine-mania, .member-of-the-month, .on-safari, .red-tournament, 
+.silver-medal, .silver-poster, .silver-purchase, .silver-rtzi-member, .staff-service, 
+.working-with-animals, .zoo-of-the-month, .zoo-tycoon
+{ display: inline-block; background: url('https://googledrive.com/host/0Bxk3OmmI9acgfjhWb0JueVZDWFoxaTFBR3g4d3FPRThobGNxOXBSWVhMc2lKTFdmZGFCbkE/38Badges.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+ 
+.african-adventures { background-position: -3px -0px; width: 32px; height: 32px; }
+.back-to-school { background-position: -38px -0px; width: 32px; height: 32px; }
+.blue-tournament { background-position: -73px -0px; width: 32px; height: 32px; }
+.bronze-medal { background-position: -108px -0px; width: 32px; height: 32px; }
+.bronze-poster { background-position: -143px -0px; width: 32px; height: 32px; }
+.bronze-purchase { background-position: -178px -0px; width: 32px; height: 32px; }
+.bronze-rtzi-member { background-position: -3px -35px; width: 32px; height: 32px; }
+.christmas-countdown { background-position: -38px -35px; width: 32px; height: 32px; }
+.community-extension { background-position: -73px -35px; width: 32px; height: 32px; }
+.custom-artist { background-position: -108px -35px; width: 32px; height: 32px; }
+.custom { background-position: -143px -35px; width: 32px; height: 32px; }
+.divers-licence { background-position: -178px -35px; width: 32px; height: 32px; }
+.endangered-species { background-position: -3px -70px; width: 32px; height: 32px; }
+.extinct-animals { background-position: -38px -70px; width: 32px; height: 32px; }
+.gold-medal { background-position: -73px -70px; width: 32px; height: 32px; }
+.gold-poster { background-position: -108px -70px; width: 32px; height: 32px; }
+.gold-purchase { background-position: -143px -70px; width: 32px; height: 32px; }
+.gold-rtzi-member { background-position: -178px -70px; width: 32px; height: 32px; }
+.green-tournament { background-position: -3px -105px; width: 32px; height: 32px; }
+.high-tide-carnival { background-position: -38px -105px; width: 32px; height: 32px; }
+.marathon-i-star { background-position: -73px -105px; width: 32px; height: 32px; }
+.marathon-i { background-position: -108px -105px; width: 32px; height: 32px; }
+.marathon-ii-star { background-position: -143px -105px; width: 32px; height: 32px; }
+.marathon-ii { background-position: -178px -105px; width: 32px; height: 32px; }
+.marathon-iii-star { background-position: -3px -140px; width: 32px; height: 32px; }
+.marathon-iii { background-position: -38px -140px; width: 32px; height: 32px; }
+.marine-mania { background-position: -73px -140px; width: 32px; height: 32px; }
+.member-of-the-month { background-position: -108px -140px; width: 32px; height: 32px; }
+.on-safari { background-position: -143px -140px; width: 32px; height: 32px; }
+.red-tournament { background-position: -178px -140px; width: 32px; height: 32px; }
+.silver-medal { background-position: -3px -175px; width: 32px; height: 32px; }
+.silver-poster { background-position: -38px -175px; width: 32px; height: 32px; }
+.silver-purchase { background-position: -73px -175px; width: 32px; height: 32px; }
+.silver-rtzi-member { background-position: -108px -175px; width: 32px; height: 32px; }
+.staff-service { background-position: -143px -175px; width: 32px; height: 32px; }
+.working-with-animals { background-position: -178px -175px; width: 32px; height: 32px; }
+.zoo-of-the-month { background-position: -3px -210px; width: 32px; height: 32px; }
+.zoo-tycoon { background-position: -38px -210px; width: 32px; height: 32px; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Thumbs */
+.thumb_africanbushelephant-male, .thumb_africancheetah-male, .thumb_africanlion-male, .thumb_africanwilddog-male, .thumb_amurleopard-female, 
+.thumb_amurtiger-male, .thumb_arabianleopard-male, .thumb_arabianoryx-female, .thumb_arcticfox-female, .thumb_arcticfox-male, 
+.thumb_ayeaye-male, .thumb_baldeagle-female, .thumb_beluga-female, .thumb_beluga-male, .thumb_beluga-withyoung, 
+.thumb_beluga-young, .thumb_bengaltiger-male, .thumb_blackfootedferret-male, .thumb_blackrhinoceros-female, .thumb_blackrhinoceros-male, 
+.thumb_blackrhinoceros-young, .thumb_blacktipreefshark-female, .thumb_blacktipreefshark-male, .thumb_blacktipreefshark-young, .thumb_blobfish-male, 
+.thumb_bluemarlin-egg, .thumb_bluemarlin-female, .thumb_bluemarlin-male, .thumb_bluemarlin-young, .thumb_boaconstrictor-female, 
+.thumb_bottlenosedolphin-female, .thumb_bottlenosedolphin-male, .thumb_bottlenosedolphin-young, .thumb_burmesepython-male, .thumb_bushantlereddeer-female-deformed, 
+.thumb_bushantlereddeer-female, .thumb_bushantlereddeer-male-deformed, .thumb_bushantlereddeer-male, .thumb_bushantlereddeer-young-deformed, .thumb_bushantlereddeer-young, 
+.thumb_californiasealion-female, .thumb_californiasealion-male, .thumb_californiasealion-young, .thumb_chimpanzee-female-pink, .thumb_chimpanzee-female-splitface, 
+.thumb_chimpanzee-female, .thumb_chimpanzee-male-pink, .thumb_chimpanzee-male-splitface, .thumb_chimpanzee-male, .thumb_chimpanzee-withyoung-pink, 
+.thumb_chimpanzee-withyoung-splitface, .thumb_chimpanzee-withyoung, .thumb_chimpanzee-young, .thumb_chinesepangolin-male, .thumb_chukarpartridge-male, 
+.thumb_cloudedleopard-female, .thumb_crestedgecko-male, .thumb_crownedsifaka-male, .thumb_deinosuchus-egg, .thumb_deinosuchus-female, 
+.thumb_deinosuchus-male, .thumb_deinosuchus-young, .thumb_deinotherium-male, .thumb_desertrattleback-male, .thumb_dilophosaurus-male, 
+.thumb_drepanosaurus-male, .thumb_dromedarycamel-female-white, .thumb_dromedarycamel-female, .thumb_dromedarycamel-male-white, .thumb_dromedarycamel-male, 
+.thumb_dromedarycamel-young-white, .thumb_dromedarycamel-young, .thumb_emperorpenguin-egg, .thumb_emperorpenguin-female, .thumb_emperorpenguin-male, 
+.thumb_emperorpenguin-withegg, .thumb_emperorpenguin-withyoung, .thumb_emperorpenguin-young, .thumb_eurasiancavelion-female, .thumb_eurasiancavelion-male, 
+.thumb_eurasiancavelion-young, .thumb_gemsbok-female, .thumb_gemsbok-male, .thumb_gemsbok-young, .thumb_giantoarfish-male, 
+.thumb_giantpacificoctopus-male, .thumb_giantpanda-male, .thumb_giantsableantelope-female, .thumb_giantsableantelope-male, .thumb_giantsableantelope-young, 
+.thumb_goblinshark-female, .thumb_goblinshark-male, .thumb_goblinshark-young, .thumb_grantszebra-female, .thumb_grantszebra-male, 
+.thumb_grantszebra-young, .thumb_greatblueturaco-male, .thumb_greaterflamingo-egg, .thumb_greaterflamingo-female-wild, .thumb_greaterflamingo-female, 
+.thumb_greaterflamingo-male-wild, .thumb_greaterflamingo-male, .thumb_greaterflamingo-young, .thumb_greywolf-female-arctic, .thumb_greywolf-female-arcticeurasian, 
+.thumb_greywolf-female-arcticiberian, .thumb_greywolf-female-arcticnorthwestern, .thumb_greywolf-female-eurasian, .thumb_greywolf-female-eurasianiberian, .thumb_greywolf-female-eurasiannorthwestern, 
+.thumb_greywolf-female-iberian, .thumb_greywolf-female-iberiannorthwestern, .thumb_greywolf-female-northwestern, .thumb_greywolf-male-arctic, .thumb_greywolf-male-arcticeurasian, 
+.thumb_greywolf-male-arcticiberian, .thumb_greywolf-male-arcticnorthwestern, .thumb_greywolf-male-eurasian, .thumb_greywolf-male-eurasianiberian, .thumb_greywolf-male-eurasiannorthwestern, 
+.thumb_greywolf-male-iberian, .thumb_greywolf-male-iberiannorthwestern, .thumb_greywolf-male-northwestern, .thumb_greywolf-young-arctic, .thumb_greywolf-young-arcticeurasian, 
+.thumb_greywolf-young-arcticiberian, .thumb_greywolf-young-arcticnorthwestern, .thumb_greywolf-young-eurasian, .thumb_greywolf-young-eurasianiberian, .thumb_greywolf-young-eurasiannorthwestern, 
+.thumb_greywolf-young-iberian, .thumb_greywolf-young-iberiannorthwestern, .thumb_greywolf-young-northwestern, .thumb_hainangibbon-male, .thumb_harpseal-young, 
+.thumb_indianpeafowl-egg, .thumb_indianpeafowl-female-blackshoulder, .thumb_indianpeafowl-female-blackshouldersplit, .thumb_indianpeafowl-female-split, .thumb_indianpeafowl-female-white, 
+.thumb_indianpeafowl-female, .thumb_indianpeafowl-male-blackshoulder, .thumb_indianpeafowl-male-blackshouldersplit, .thumb_indianpeafowl-male-split, .thumb_indianpeafowl-male-white, 
+.thumb_indianpeafowl-male, .thumb_indianpeafowl-young-blackshoulder, .thumb_indianpeafowl-young-blackshouldersplit, .thumb_indianpeafowl-young-split, .thumb_indianpeafowl-young-white, 
+.thumb_indianpeafowl-young, .thumb_indochinesegreenpeafowl-male, .thumb_kaleb-male, .thumb_killerpenguin-egg, .thumb_killerpenguin-female, 
+.thumb_killerpenguin-male, .thumb_killerpenguin-young, .thumb_leatherbackseaturtle-egg, .thumb_leatherbackseaturtle-female, .thumb_leatherbackseaturtle-male, 
+.thumb_leatherbackseaturtle-young, .thumb_manedwolf-male, .thumb_mountaingorilla-male, .thumb_muskox-female, .thumb_muskox-male, 
+.thumb_muskox-young, .thumb_narwhal-female, .thumb_narwhal-male-doubletusk, .thumb_narwhal-male, .thumb_narwhal-withyoung, 
+.thumb_narwhal-young, .thumb_nilecrocodile-egg, .thumb_nilecrocodile-female, .thumb_nilecrocodile-male, .thumb_nilecrocodile-young, 
+.thumb_nilemonitor-male, .thumb_northamericanriverotter-male, .thumb_okapi-male, .thumb_orca-female, .thumb_orca-male, 
+.thumb_orca-withyoung, .thumb_orca-young, .thumb_ornatehawkeagle-male, .thumb_ostrich-egg, .thumb_ostrich-female-cross, 
+.thumb_ostrich-female-somali, .thumb_ostrich-female, .thumb_ostrich-male-cross, .thumb_ostrich-male-somali, .thumb_ostrich-male, 
+.thumb_ostrich-young, .thumb_polarbear-female, .thumb_polarbear-male, .thumb_polarbear-withyoung, .thumb_polarbear-young, 
+.thumb_pug-male, .thumb_redkangaroo-female, .thumb_redkangaroo-male, .thumb_redkangaroo-withyoung, .thumb_redkangaroo-young, 
+.thumb_redpanda-female, .thumb_redpanda-male, .thumb_redpanda-young, .thumb_reefmantaray-female, .thumb_reefmantaray-male, 
+.thumb_reefmantaray-young, .thumb_reindeer-female-blitzen, .thumb_reindeer-female-dancer, .thumb_reindeer-female-prancer, .thumb_reindeer-female-vixen, 
+.thumb_reindeer-female, .thumb_reindeer-male-comet, .thumb_reindeer-male-cupid, .thumb_reindeer-male-dasher, .thumb_reindeer-male-donner, 
+.thumb_reindeer-male-rudolph, .thumb_reindeer-male, .thumb_reindeer-young, .thumb_reticulatedgiraffe-male, .thumb_ringtailedlemur-male, 
+.thumb_ringtailedmongoose, .thumb_rockhopperpenguin-egg, .thumb_rockhopperpenguin-female, .thumb_rockhopperpenguin-male, .thumb_rockhopperpenguin-young, 
+.thumb_scallopedhammerheadshark-female, .thumb_scallopedhammerheadshark-male, .thumb_scallopedhammerheadshark-young, .thumb_sclaterslemur-male, .thumb_seaotter-female-whitehead, 
+.thumb_seaotter-female, .thumb_seaotter-male-whitehead, .thumb_seaotter-male, .thumb_seaotter-young-whitehead, .thumb_seaotter-young, 
+.thumb_shortfacedbear-female-deformed, .thumb_shortfacedbear-female, .thumb_shortfacedbear-male-deformed, .thumb_shortfacedbear-male, .thumb_shortfacedbear-young-deformed, 
+.thumb_shortfacedbear-young, .thumb_smilodon-male, .thumb_snowleopard-female, .thumb_snowleopard-male, .thumb_snowleopard-young, 
+.thumb_spottedhyena-male, .thumb_stegosaurus-male, .thumb_stellersseaeagle-male, .thumb_stokesosaurus-egg, .thumb_stokesosaurus-female, 
+.thumb_stokesosaurus-male, .thumb_stokesosaurus-young, .thumb_thomsonsgazelle-female, .thumb_thomsonsgazelle-male, .thumb_thomsonsgazelle-young, 
+.thumb_thylacine-female, .thumb_thylacine-male, .thumb_thylacine-withyoung, .thumb_thylacine-young, .thumb_tokaygecko-male, 
+.thumb_tyrannosaurus-male, .thumb_vaquita-female, .thumb_velociraptor-male, .thumb_walrus-female-pale, .thumb_walrus-female, 
+.thumb_walrus-male-pale, .thumb_walrus-male, .thumb_walrus-young-pale, .thumb_walrus-young, .thumb_whaleshark-male, 
+.thumb_wolverine-female, .thumb_wolverine-male, .thumb_wolverine-young, .thumb_woollymammoth-male
+{ display: inline-block; background: url('https://googledrive.com/host/0Bxk3OmmI9acgfjhWb0JueVZDWFoxaTFBR3g4d3FPRThobGNxOXBSWVhMc2lKTFdmZGFCbkE/25x25SpriteMap.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+ 
+.thumb_africanbushelephant-male { background-position: -3px -0px; width: 25px; height: 25px; }
+.thumb_africancheetah-male { background-position: -31px -0px; width: 25px; height: 25px; }
+.thumb_africanlion-male { background-position: -59px -0px; width: 25px; height: 25px; }
+.thumb_africanwilddog-male { background-position: -87px -0px; width: 25px; height: 25px; }
+.thumb_amurleopard-female { background-position: -115px -0px; width: 25px; height: 25px; }
+.thumb_amurtiger-male { background-position: -143px -0px; width: 25px; height: 25px; }
+.thumb_arabianleopard-male { background-position: -171px -0px; width: 25px; height: 25px; }
+.thumb_arabianoryx-female { background-position: -199px -0px; width: 25px; height: 25px; }
+.thumb_arcticfox-female { background-position: -227px -0px; width: 25px; height: 25px; }
+.thumb_arcticfox-male { background-position: -255px -0px; width: 25px; height: 25px; }
+.thumb_ayeaye-male { background-position: -283px -0px; width: 25px; height: 25px; }
+.thumb_baldeagle-female { background-position: -311px -0px; width: 25px; height: 25px; }
+.thumb_beluga-female { background-position: -339px -0px; width: 25px; height: 25px; }
+.thumb_beluga-male { background-position: -367px -0px; width: 25px; height: 25px; }
+.thumb_beluga-withyoung { background-position: -395px -0px; width: 25px; height: 25px; }
+.thumb_beluga-young { background-position: -423px -0px; width: 25px; height: 25px; }
+.thumb_bengaltiger-male { background-position: -451px -0px; width: 25px; height: 25px; }
+.thumb_blackfootedferret-male { background-position: -3px -28px; width: 25px; height: 25px; }
+.thumb_blackrhinoceros-female { background-position: -31px -28px; width: 25px; height: 25px; }
+.thumb_blackrhinoceros-male { background-position: -59px -28px; width: 25px; height: 25px; }
+.thumb_blackrhinoceros-young { background-position: -87px -28px; width: 25px; height: 25px; }
+.thumb_blacktipreefshark-female { background-position: -115px -28px; width: 25px; height: 25px; }
+.thumb_blacktipreefshark-male { background-position: -143px -28px; width: 25px; height: 25px; }
+.thumb_blacktipreefshark-young { background-position: -171px -28px; width: 25px; height: 25px; }
+.thumb_blobfish-male { background-position: -199px -28px; width: 25px; height: 25px; }
+.thumb_bluemarlin-egg { background-position: -227px -28px; width: 25px; height: 25px; }
+.thumb_bluemarlin-female { background-position: -255px -28px; width: 25px; height: 25px; }
+.thumb_bluemarlin-male { background-position: -283px -28px; width: 25px; height: 25px; }
+.thumb_bluemarlin-young { background-position: -311px -28px; width: 25px; height: 25px; }
+.thumb_boaconstrictor-female { background-position: -339px -28px; width: 25px; height: 25px; }
+.thumb_bottlenosedolphin-female { background-position: -367px -28px; width: 25px; height: 25px; }
+.thumb_bottlenosedolphin-male { background-position: -395px -28px; width: 25px; height: 25px; }
+.thumb_bottlenosedolphin-young { background-position: -423px -28px; width: 25px; height: 25px; }
+.thumb_burmesepython-male { background-position: -451px -28px; width: 25px; height: 25px; }
+.thumb_bushantlereddeer-female-deformed { background-position: -3px -56px; width: 25px; height: 25px; }
+.thumb_bushantlereddeer-female { background-position: -31px -56px; width: 25px; height: 25px; }
+.thumb_bushantlereddeer-male-deformed { background-position: -59px -56px; width: 25px; height: 25px; }
+.thumb_bushantlereddeer-male { background-position: -87px -56px; width: 25px; height: 25px; }
+.thumb_bushantlereddeer-young-deformed { background-position: -115px -56px; width: 25px; height: 25px; }
+.thumb_bushantlereddeer-young { background-position: -143px -56px; width: 25px; height: 25px; }
+.thumb_californiasealion-female { background-position: -171px -56px; width: 25px; height: 25px; }
+.thumb_californiasealion-male { background-position: -199px -56px; width: 25px; height: 25px; }
+.thumb_californiasealion-young { background-position: -227px -56px; width: 25px; height: 25px; }
+.thumb_chimpanzee-female-pink { background-position: -255px -56px; width: 25px; height: 25px; }
+.thumb_chimpanzee-female-splitface { background-position: -283px -56px; width: 25px; height: 25px; }
+.thumb_chimpanzee-female { background-position: -311px -56px; width: 25px; height: 25px; }
+.thumb_chimpanzee-male-pink { background-position: -339px -56px; width: 25px; height: 25px; }
+.thumb_chimpanzee-male-splitface { background-position: -367px -56px; width: 25px; height: 25px; }
+.thumb_chimpanzee-male { background-position: -395px -56px; width: 25px; height: 25px; }
+.thumb_chimpanzee-withyoung-pink { background-position: -423px -56px; width: 25px; height: 25px; }
+.thumb_chimpanzee-withyoung-splitface { background-position: -451px -56px; width: 25px; height: 25px; }
+.thumb_chimpanzee-withyoung { background-position: -3px -84px; width: 25px; height: 25px; }
+.thumb_chimpanzee-young { background-position: -31px -84px; width: 25px; height: 25px; }
+.thumb_chinesepangolin-male { background-position: -59px -84px; width: 25px; height: 25px; }
+.thumb_chukarpartridge-male { background-position: -87px -84px; width: 25px; height: 25px; }
+.thumb_cloudedleopard-female { background-position: -115px -84px; width: 25px; height: 25px; }
+.thumb_crestedgecko-male { background-position: -143px -84px; width: 25px; height: 25px; }
+.thumb_crownedsifaka-male { background-position: -171px -84px; width: 25px; height: 25px; }
+.thumb_deinosuchus-egg { background-position: -199px -84px; width: 25px; height: 25px; }
+.thumb_deinosuchus-female { background-position: -227px -84px; width: 25px; height: 25px; }
+.thumb_deinosuchus-male { background-position: -255px -84px; width: 25px; height: 25px; }
+.thumb_deinosuchus-young { background-position: -283px -84px; width: 25px; height: 25px; }
+.thumb_deinotherium-male { background-position: -311px -84px; width: 25px; height: 25px; }
+.thumb_desertrattleback-male { background-position: -339px -84px; width: 25px; height: 25px; }
+.thumb_dilophosaurus-male { background-position: -367px -84px; width: 25px; height: 25px; }
+.thumb_drepanosaurus-male { background-position: -395px -84px; width: 25px; height: 25px; }
+.thumb_dromedarycamel-female-white { background-position: -423px -84px; width: 25px; height: 25px; }
+.thumb_dromedarycamel-female { background-position: -451px -84px; width: 25px; height: 25px; }
+.thumb_dromedarycamel-male-white { background-position: -3px -112px; width: 25px; height: 25px; }
+.thumb_dromedarycamel-male { background-position: -31px -112px; width: 25px; height: 25px; }
+.thumb_dromedarycamel-young-white { background-position: -59px -112px; width: 25px; height: 25px; }
+.thumb_dromedarycamel-young { background-position: -87px -112px; width: 25px; height: 25px; }
+.thumb_emperorpenguin-egg { background-position: -115px -112px; width: 25px; height: 25px; }
+.thumb_emperorpenguin-female { background-position: -143px -112px; width: 25px; height: 25px; }
+.thumb_emperorpenguin-male { background-position: -171px -112px; width: 25px; height: 25px; }
+.thumb_emperorpenguin-withegg { background-position: -199px -112px; width: 25px; height: 25px; }
+.thumb_emperorpenguin-withyoung { background-position: -227px -112px; width: 25px; height: 25px; }
+.thumb_emperorpenguin-young { background-position: -255px -112px; width: 25px; height: 25px; }
+.thumb_eurasiancavelion-female { background-position: -283px -112px; width: 25px; height: 25px; }
+.thumb_eurasiancavelion-male { background-position: -311px -112px; width: 25px; height: 25px; }
+.thumb_eurasiancavelion-young { background-position: -339px -112px; width: 25px; height: 25px; }
+.thumb_gemsbok-female { background-position: -367px -112px; width: 25px; height: 25px; }
+.thumb_gemsbok-male { background-position: -395px -112px; width: 25px; height: 25px; }
+.thumb_gemsbok-young { background-position: -423px -112px; width: 25px; height: 25px; }
+.thumb_giantoarfish-male { background-position: -451px -112px; width: 25px; height: 25px; }
+.thumb_giantpacificoctopus-male { background-position: -3px -140px; width: 25px; height: 25px; }
+.thumb_giantpanda-male { background-position: -31px -140px; width: 25px; height: 25px; }
+.thumb_giantsableantelope-female { background-position: -59px -140px; width: 25px; height: 25px; }
+.thumb_giantsableantelope-male { background-position: -87px -140px; width: 25px; height: 25px; }
+.thumb_giantsableantelope-young { background-position: -115px -140px; width: 25px; height: 25px; }
+.thumb_goblinshark-female { background-position: -143px -140px; width: 25px; height: 25px; }
+.thumb_goblinshark-male { background-position: -171px -140px; width: 25px; height: 25px; }
+.thumb_goblinshark-young { background-position: -199px -140px; width: 25px; height: 25px; }
+.thumb_grantszebra-female { background-position: -227px -140px; width: 25px; height: 25px; }
+.thumb_grantszebra-male { background-position: -255px -140px; width: 25px; height: 25px; }
+.thumb_grantszebra-young { background-position: -283px -140px; width: 25px; height: 25px; }
+.thumb_greatblueturaco-male { background-position: -311px -140px; width: 25px; height: 25px; }
+.thumb_greaterflamingo-egg { background-position: -339px -140px; width: 25px; height: 25px; }
+.thumb_greaterflamingo-female-wild { background-position: -367px -140px; width: 25px; height: 25px; }
+.thumb_greaterflamingo-female { background-position: -395px -140px; width: 25px; height: 25px; }
+.thumb_greaterflamingo-male-wild { background-position: -423px -140px; width: 25px; height: 25px; }
+.thumb_greaterflamingo-male { background-position: -451px -140px; width: 25px; height: 25px; }
+.thumb_greaterflamingo-young { background-position: -3px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-female-arctic { background-position: -31px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-female-arcticeurasian { background-position: -59px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-female-arcticiberian { background-position: -87px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-female-arcticnorthwestern { background-position: -115px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-female-eurasian { background-position: -143px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-female-eurasianiberian { background-position: -171px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-female-eurasiannorthwestern { background-position: -199px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-female-iberian { background-position: -227px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-female-iberiannorthwestern { background-position: -255px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-female-northwestern { background-position: -283px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-male-arctic { background-position: -311px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-male-arcticeurasian { background-position: -339px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-male-arcticiberian { background-position: -367px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-male-arcticnorthwestern { background-position: -395px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-male-eurasian { background-position: -423px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-male-eurasianiberian { background-position: -451px -168px; width: 25px; height: 25px; }
+.thumb_greywolf-male-eurasiannorthwestern { background-position: -3px -196px; width: 25px; height: 25px; }
+.thumb_greywolf-male-iberian { background-position: -31px -196px; width: 25px; height: 25px; }
+.thumb_greywolf-male-iberiannorthwestern { background-position: -59px -196px; width: 25px; height: 25px; }
+.thumb_greywolf-male-northwestern { background-position: -87px -196px; width: 25px; height: 25px; }
+.thumb_greywolf-young-arctic { background-position: -115px -196px; width: 25px; height: 25px; }
+.thumb_greywolf-young-arcticeurasian { background-position: -143px -196px; width: 25px; height: 25px; }
+.thumb_greywolf-young-arcticiberian { background-position: -171px -196px; width: 25px; height: 25px; }
+.thumb_greywolf-young-arcticnorthwestern { background-position: -199px -196px; width: 25px; height: 25px; }
+.thumb_greywolf-young-eurasian { background-position: -227px -196px; width: 25px; height: 25px; }
+.thumb_greywolf-young-eurasianiberian { background-position: -255px -196px; width: 25px; height: 25px; }
+.thumb_greywolf-young-eurasiannorthwestern { background-position: -283px -196px; width: 25px; height: 25px; }
+.thumb_greywolf-young-iberian { background-position: -311px -196px; width: 25px; height: 25px; }
+.thumb_greywolf-young-iberiannorthwestern { background-position: -339px -196px; width: 25px; height: 25px; }
+.thumb_greywolf-young-northwestern { background-position: -367px -196px; width: 25px; height: 25px; }
+.thumb_hainangibbon-male { background-position: -395px -196px; width: 25px; height: 25px; }
+.thumb_harpseal-young { background-position: -423px -196px; width: 25px; height: 25px; }
+.thumb_indianpeafowl-egg { background-position: -451px -196px; width: 25px; height: 25px; }
+.thumb_indianpeafowl-female-blackshoulder { background-position: -3px -224px; width: 25px; height: 25px; }
+.thumb_indianpeafowl-female-blackshouldersplit { background-position: -31px -224px; width: 25px; height: 25px; }
+.thumb_indianpeafowl-female-split { background-position: -59px -224px; width: 25px; height: 25px; }
+.thumb_indianpeafowl-female-white { background-position: -87px -224px; width: 25px; height: 25px; }
+.thumb_indianpeafowl-female { background-position: -115px -224px; width: 25px; height: 25px; }
+.thumb_indianpeafowl-male-blackshoulder { background-position: -143px -224px; width: 25px; height: 25px; }
+.thumb_indianpeafowl-male-blackshouldersplit { background-position: -171px -224px; width: 25px; height: 25px; }
+.thumb_indianpeafowl-male-split { background-position: -199px -224px; width: 25px; height: 25px; }
+.thumb_indianpeafowl-male-white { background-position: -227px -224px; width: 25px; height: 25px; }
+.thumb_indianpeafowl-male { background-position: -255px -224px; width: 25px; height: 25px; }
+.thumb_indianpeafowl-young-blackshoulder { background-position: -283px -224px; width: 25px; height: 25px; }
+.thumb_indianpeafowl-young-blackshouldersplit { background-position: -311px -224px; width: 25px; height: 25px; }
+.thumb_indianpeafowl-young-split { background-position: -339px -224px; width: 25px; height: 25px; }
+.thumb_indianpeafowl-young-white { background-position: -367px -224px; width: 25px; height: 25px; }
+.thumb_indianpeafowl-young { background-position: -395px -224px; width: 25px; height: 25px; }
+.thumb_indochinesegreenpeafowl-male { background-position: -423px -224px; width: 25px; height: 25px; }
+.thumb_kaleb-male { background-position: -451px -224px; width: 25px; height: 25px; }
+.thumb_killerpenguin-egg { background-position: -3px -252px; width: 25px; height: 25px; }
+.thumb_killerpenguin-female { background-position: -31px -252px; width: 25px; height: 25px; }
+.thumb_killerpenguin-male { background-position: -59px -252px; width: 25px; height: 25px; }
+.thumb_killerpenguin-young { background-position: -87px -252px; width: 25px; height: 25px; }
+.thumb_leatherbackseaturtle-egg { background-position: -115px -252px; width: 25px; height: 25px; }
+.thumb_leatherbackseaturtle-female { background-position: -143px -252px; width: 25px; height: 25px; }
+.thumb_leatherbackseaturtle-male { background-position: -171px -252px; width: 25px; height: 25px; }
+.thumb_leatherbackseaturtle-young { background-position: -199px -252px; width: 25px; height: 25px; }
+.thumb_manedwolf-male { background-position: -227px -252px; width: 25px; height: 25px; }
+.thumb_mountaingorilla-male { background-position: -255px -252px; width: 25px; height: 25px; }
+.thumb_muskox-female { background-position: -283px -252px; width: 25px; height: 25px; }
+.thumb_muskox-male { background-position: -311px -252px; width: 25px; height: 25px; }
+.thumb_muskox-young { background-position: -339px -252px; width: 25px; height: 25px; }
+.thumb_narwhal-female { background-position: -367px -252px; width: 25px; height: 25px; }
+.thumb_narwhal-male-doubletusk { background-position: -395px -252px; width: 25px; height: 25px; }
+.thumb_narwhal-male { background-position: -423px -252px; width: 25px; height: 25px; }
+.thumb_narwhal-withyoung { background-position: -451px -252px; width: 25px; height: 25px; }
+.thumb_narwhal-young { background-position: -3px -280px; width: 25px; height: 25px; }
+.thumb_nilecrocodile-egg { background-position: -31px -280px; width: 25px; height: 25px; }
+.thumb_nilecrocodile-female { background-position: -59px -280px; width: 25px; height: 25px; }
+.thumb_nilecrocodile-male { background-position: -87px -280px; width: 25px; height: 25px; }
+.thumb_nilecrocodile-young { background-position: -115px -280px; width: 25px; height: 25px; }
+.thumb_nilemonitor-male { background-position: -143px -280px; width: 25px; height: 25px; }
+.thumb_northamericanriverotter-male { background-position: -171px -280px; width: 25px; height: 25px; }
+.thumb_okapi-male { background-position: -199px -280px; width: 25px; height: 25px; }
+.thumb_orca-female { background-position: -227px -280px; width: 25px; height: 25px; }
+.thumb_orca-male { background-position: -255px -280px; width: 25px; height: 25px; }
+.thumb_orca-withyoung { background-position: -283px -280px; width: 25px; height: 25px; }
+.thumb_orca-young { background-position: -311px -280px; width: 25px; height: 25px; }
+.thumb_ornatehawkeagle-male { background-position: -339px -280px; width: 25px; height: 25px; }
+.thumb_ostrich-egg { background-position: -367px -280px; width: 25px; height: 25px; }
+.thumb_ostrich-female-cross { background-position: -395px -280px; width: 25px; height: 25px; }
+.thumb_ostrich-female-somali { background-position: -423px -280px; width: 25px; height: 25px; }
+.thumb_ostrich-female { background-position: -451px -280px; width: 25px; height: 25px; }
+.thumb_ostrich-male-cross { background-position: -3px -308px; width: 25px; height: 25px; }
+.thumb_ostrich-male-somali { background-position: -31px -308px; width: 25px; height: 25px; }
+.thumb_ostrich-male { background-position: -59px -308px; width: 25px; height: 25px; }
+.thumb_ostrich-young { background-position: -87px -308px; width: 25px; height: 25px; }
+.thumb_polarbear-female { background-position: -115px -308px; width: 25px; height: 25px; }
+.thumb_polarbear-male { background-position: -143px -308px; width: 25px; height: 25px; }
+.thumb_polarbear-withyoung { background-position: -171px -308px; width: 25px; height: 25px; }
+.thumb_polarbear-young { background-position: -199px -308px; width: 25px; height: 25px; }
+.thumb_pug-male { background-position: -227px -308px; width: 25px; height: 25px; }
+.thumb_redkangaroo-female { background-position: -255px -308px; width: 25px; height: 25px; }
+.thumb_redkangaroo-male { background-position: -283px -308px; width: 25px; height: 25px; }
+.thumb_redkangaroo-withyoung { background-position: -311px -308px; width: 25px; height: 25px; }
+.thumb_redkangaroo-young { background-position: -339px -308px; width: 25px; height: 25px; }
+.thumb_redpanda-female { background-position: -367px -308px; width: 25px; height: 25px; }
+.thumb_redpanda-male { background-position: -395px -308px; width: 25px; height: 25px; }
+.thumb_redpanda-young { background-position: -423px -308px; width: 25px; height: 25px; }
+.thumb_reefmantaray-female { background-position: -451px -308px; width: 25px; height: 25px; }
+.thumb_reefmantaray-male { background-position: -3px -336px; width: 25px; height: 25px; }
+.thumb_reefmantaray-young { background-position: -31px -336px; width: 25px; height: 25px; }
+.thumb_reindeer-female-blitzen { background-position: -59px -336px; width: 25px; height: 25px; }
+.thumb_reindeer-female-dancer { background-position: -87px -336px; width: 25px; height: 25px; }
+.thumb_reindeer-female-prancer { background-position: -115px -336px; width: 25px; height: 25px; }
+.thumb_reindeer-female-vixen { background-position: -143px -336px; width: 25px; height: 25px; }
+.thumb_reindeer-female { background-position: -171px -336px; width: 25px; height: 25px; }
+.thumb_reindeer-male-comet { background-position: -199px -336px; width: 25px; height: 25px; }
+.thumb_reindeer-male-cupid { background-position: -227px -336px; width: 25px; height: 25px; }
+.thumb_reindeer-male-dasher { background-position: -255px -336px; width: 25px; height: 25px; }
+.thumb_reindeer-male-donner { background-position: -283px -336px; width: 25px; height: 25px; }
+.thumb_reindeer-male-rudolph { background-position: -311px -336px; width: 25px; height: 25px; }
+.thumb_reindeer-male { background-position: -339px -336px; width: 25px; height: 25px; }
+.thumb_reindeer-young { background-position: -367px -336px; width: 25px; height: 25px; }
+.thumb_reticulatedgiraffe-male { background-position: -395px -336px; width: 25px; height: 25px; }
+.thumb_ringtailedlemur-male { background-position: -423px -336px; width: 25px; height: 25px; }
+.thumb_ringtailedmongoose { background-position: -451px -336px; width: 25px; height: 25px; }
+.thumb_rockhopperpenguin-egg { background-position: -3px -364px; width: 25px; height: 25px; }
+.thumb_rockhopperpenguin-female { background-position: -31px -364px; width: 25px; height: 25px; }
+.thumb_rockhopperpenguin-male { background-position: -59px -364px; width: 25px; height: 25px; }
+.thumb_rockhopperpenguin-young { background-position: -87px -364px; width: 25px; height: 25px; }
+.thumb_scallopedhammerheadshark-female { background-position: -115px -364px; width: 25px; height: 25px; }
+.thumb_scallopedhammerheadshark-male { background-position: -143px -364px; width: 25px; height: 25px; }
+.thumb_scallopedhammerheadshark-young { background-position: -171px -364px; width: 25px; height: 25px; }
+.thumb_sclaterslemur-male { background-position: -199px -364px; width: 25px; height: 25px; }
+.thumb_seaotter-female-whitehead { background-position: -227px -364px; width: 25px; height: 25px; }
+.thumb_seaotter-female { background-position: -255px -364px; width: 25px; height: 25px; }
+.thumb_seaotter-male-whitehead { background-position: -283px -364px; width: 25px; height: 25px; }
+.thumb_seaotter-male { background-position: -311px -364px; width: 25px; height: 25px; }
+.thumb_seaotter-young-whitehead { background-position: -339px -364px; width: 25px; height: 25px; }
+.thumb_seaotter-young { background-position: -367px -364px; width: 25px; height: 25px; }
+.thumb_shortfacedbear-female-deformed { background-position: -395px -364px; width: 25px; height: 25px; }
+.thumb_shortfacedbear-female { background-position: -423px -364px; width: 25px; height: 25px; }
+.thumb_shortfacedbear-male-deformed { background-position: -451px -364px; width: 25px; height: 25px; }
+.thumb_shortfacedbear-male { background-position: -3px -392px; width: 25px; height: 25px; }
+.thumb_shortfacedbear-young-deformed { background-position: -31px -392px; width: 25px; height: 25px; }
+.thumb_shortfacedbear-young { background-position: -59px -392px; width: 25px; height: 25px; }
+.thumb_smilodon-male { background-position: -87px -392px; width: 25px; height: 25px; }
+.thumb_snowleopard-female { background-position: -115px -392px; width: 25px; height: 25px; }
+.thumb_snowleopard-male { background-position: -143px -392px; width: 25px; height: 25px; }
+.thumb_snowleopard-young { background-position: -171px -392px; width: 25px; height: 25px; }
+.thumb_spottedhyena-male { background-position: -199px -392px; width: 25px; height: 25px; }
+.thumb_stegosaurus-male { background-position: -227px -392px; width: 25px; height: 25px; }
+.thumb_stellersseaeagle-male { background-position: -255px -392px; width: 25px; height: 25px; }
+.thumb_stokesosaurus-egg { background-position: -283px -392px; width: 25px; height: 25px; }
+.thumb_stokesosaurus-female { background-position: -311px -392px; width: 25px; height: 25px; }
+.thumb_stokesosaurus-male { background-position: -339px -392px; width: 25px; height: 25px; }
+.thumb_stokesosaurus-young { background-position: -367px -392px; width: 25px; height: 25px; }
+.thumb_thomsonsgazelle-female { background-position: -395px -392px; width: 25px; height: 25px; }
+.thumb_thomsonsgazelle-male { background-position: -423px -392px; width: 25px; height: 25px; }
+.thumb_thomsonsgazelle-young { background-position: -451px -392px; width: 25px; height: 25px; }
+.thumb_thylacine-female { background-position: -3px -420px; width: 25px; height: 25px; }
+.thumb_thylacine-male { background-position: -31px -420px; width: 25px; height: 25px; }
+.thumb_thylacine-withyoung { background-position: -59px -420px; width: 25px; height: 25px; }
+.thumb_thylacine-young { background-position: -87px -420px; width: 25px; height: 25px; }
+.thumb_tokaygecko-male { background-position: -115px -420px; width: 25px; height: 25px; }
+.thumb_tyrannosaurus-male { background-position: -143px -420px; width: 25px; height: 25px; }
+.thumb_vaquita-female { background-position: -171px -420px; width: 25px; height: 25px; }
+.thumb_velociraptor-male { background-position: -199px -420px; width: 25px; height: 25px; }
+.thumb_walrus-female-pale { background-position: -227px -420px; width: 25px; height: 25px; }
+.thumb_walrus-female { background-position: -255px -420px; width: 25px; height: 25px; }
+.thumb_walrus-male-pale { background-position: -283px -420px; width: 25px; height: 25px; }
+.thumb_walrus-male { background-position: -311px -420px; width: 25px; height: 25px; }
+.thumb_walrus-young-pale { background-position: -339px -420px; width: 25px; height: 25px; }
+.thumb_walrus-young { background-position: -367px -420px; width: 25px; height: 25px; }
+.thumb_whaleshark-male { background-position: -395px -420px; width: 25px; height: 25px; }
+.thumb_wolverine-female { background-position: -423px -420px; width: 25px; height: 25px; }
+.thumb_wolverine-male { background-position: -451px -420px; width: 25px; height: 25px; }
+.thumb_wolverine-young { background-position: -3px -448px; width: 25px; height: 25px; }
+.thumb_woollymammoth-male { background-position: -31px -448px; width: 25px; height: 25px; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Regular 64x64 */
+ 
+
+.africanbushelephant-male, .africancheetah-male, .africanlion-male, .africanwilddog-male, .amurleopard-female, 
+.amurtiger-male, .arabianleopard-male, .arabianoryx-female, .arcticfox-female, .arcticfox-male, 
+.ayeaye-male, .baldeagle-female, .beluga-female, .beluga-male, .beluga-withyoung, 
+.beluga-young, .bengaltiger-male, .blackfootedferret-male, .blackrhinoceros-female, .blackrhinoceros-male, 
+.blackrhinoceros-young, .blacktipreefshark-female, .blacktipreefshark-male, .blacktipreefshark-young, .blobfish-male, 
+.bluemarlin-egg, .bluemarlin-female, .bluemarlin-male, .bluemarlin-young, .boaconstrictor-female, 
+.bottlenosedolphin-female, .bottlenosedolphin-male, .bottlenosedolphin-young, .burmesepython-male, .bushantlereddeer-female-deformed, 
+.bushantlereddeer-female, .bushantlereddeer-male-deformed, .bushantlereddeer-male, .bushantlereddeer-young-deformed, .bushantlereddeer-young, 
+.californiasealion-female, .californiasealion-male, .californiasealion-young, .chimpanzee-female-pink, .chimpanzee-female-splitface, 
+.chimpanzee-female, .chimpanzee-male-pink, .chimpanzee-male-splitface, .chimpanzee-male, .chimpanzee-withyoung-pink, 
+.chimpanzee-withyoung-splitface, .chimpanzee-withyoung, .chimpanzee-young, .chinesepangolin-male, .chukarpartridge-male, 
+.cloudedleopard-female, .crestedgecko-male, .crownedsifaka-male, .deinosuchus-egg, .deinosuchus-female, 
+.deinosuchus-male, .deinosuchus-young, .deinotherium-male, .desertrattleback-male, .dilophosaurus-male, 
+.drepanosaurus-male, .dromedarycamel-female-white, .dromedarycamel-female, .dromedarycamel-male-white, .dromedarycamel-male, 
+.dromedarycamel-young-white, .dromedarycamel-young, .emperorpenguin-egg, .emperorpenguin-female, .emperorpenguin-male, 
+.emperorpenguin-withegg, .emperorpenguin-withyoung, .emperorpenguin-young, .eurasiancavelion-female, .eurasiancavelion-male, 
+.eurasiancavelion-young, .gemsbok-female, .gemsbok-male, .gemsbok-young, .giantoarfish-male, 
+.giantpacificoctopus-male, .giantpanda-male, .giantsableantelope-female, .giantsableantelope-male, .giantsableantelope-young, 
+.goblinshark-female, .goblinshark-male, .goblinshark-young, .grantszebra-female, .grantszebra-male, 
+.grantszebra-young, .greatblueturaco-male, .greaterflamingo-egg, .greaterflamingo-female-wild, .greaterflamingo-female, 
+.greaterflamingo-male-wild, .greaterflamingo-male, .greaterflamingo-young, .greywolf-female-arctic, .greywolf-female-arcticeurasian, 
+.greywolf-female-arcticiberian, .greywolf-female-arcticnorthwestern, .greywolf-female-eurasian, .greywolf-female-eurasianiberian, .greywolf-female-eurasiannorthwestern, 
+.greywolf-female-iberian, .greywolf-female-iberiannorthwestern, .greywolf-female-northwestern, .greywolf-male-arctic, .greywolf-male-arcticeurasian, 
+.greywolf-male-arcticiberian, .greywolf-male-arcticnorthwestern, .greywolf-male-eurasian, .greywolf-male-eurasianiberian, .greywolf-male-eurasiannorthwestern, 
+.greywolf-male-iberian, .greywolf-male-iberiannorthwestern, .greywolf-male-northwestern, .greywolf-young-arctic, .greywolf-young-arcticeurasian, 
+.greywolf-young-arcticiberian, .greywolf-young-arcticnorthwestern, .greywolf-young-eurasian, .greywolf-young-eurasianiberian, .greywolf-young-eurasiannorthwestern, 
+.greywolf-young-iberian, .greywolf-young-iberiannorthwestern, .greywolf-young-northwestern, .hainangibbon-male, .harpseal-young, 
+.indianpeafowl-egg, .indianpeafowl-female-blackshoulder, .indianpeafowl-female-blackshouldersplit, .indianpeafowl-female-split, .indianpeafowl-female-white, 
+.indianpeafowl-female, .indianpeafowl-male-blackshoulder, .indianpeafowl-male-blackshouldersplit, .indianpeafowl-male-split, .indianpeafowl-male-white, 
+.indianpeafowl-male, .indianpeafowl-young-blackshoulder, .indianpeafowl-young-blackshouldersplit, .indianpeafowl-young-split, .indianpeafowl-young-white, 
+.indianpeafowl-young, .indochinesegreenpeafowl-male, .kaleb-male, .killerpenguin-egg, .killerpenguin-female, 
+.killerpenguin-male, .killerpenguin-young, .leatherbackseaturtle-egg, .leatherbackseaturtle-female, .leatherbackseaturtle-male, 
+.leatherbackseaturtle-young, .manedwolf-male, .mountaingorilla-male, .muskox-female, .muskox-male, 
+.muskox-young, .narwhal-female, .narwhal-male-doubletusk, .narwhal-male, .narwhal-withyoung, 
+.narwhal-young, .nilecrocodile-egg, .nilecrocodile-female, .nilecrocodile-male, .nilecrocodile-young, 
+.nilemonitor-male, .northamericanriverotter-male, .okapi-male, .orca-female, .orca-male, 
+.orca-withyoung, .orca-young, .ornatehawkeagle-male, .ostrich-egg, .ostrich-female-cross, 
+.ostrich-female-somali, .ostrich-female, .ostrich-male-cross, .ostrich-male-somali, .ostrich-male, 
+.ostrich-young, .polarbear-female, .polarbear-male, .polarbear-withyoung, .polarbear-young, 
+.pug-male, .redkangaroo-female, .redkangaroo-male, .redkangaroo-withyoung, .redkangaroo-young, 
+.redpanda-female, .redpanda-male, .redpanda-young, .reefmantaray-female, .reefmantaray-male, 
+.reefmantaray-young, .reindeer-female-blitzen, .reindeer-female-dancer, .reindeer-female-prancer, .reindeer-female-vixen, 
+.reindeer-female, .reindeer-male-comet, .reindeer-male-cupid, .reindeer-male-dasher, .reindeer-male-donner, 
+.reindeer-male-rudolph, .reindeer-male, .reindeer-young, .reticulatedgiraffe-male, .ringtailedlemur-male, 
+.ringtailedmongoose, .rockhopperpenguin-egg, .rockhopperpenguin-female, .rockhopperpenguin-male, .rockhopperpenguin-young, 
+.scallopedhammerheadshark-female, .scallopedhammerheadshark-male, .scallopedhammerheadshark-young, .sclaterslemur-male, .seaotter-female-whitehead, 
+.seaotter-female, .seaotter-male-whitehead, .seaotter-male, .seaotter-young-whitehead, .seaotter-young, 
+.shortfacedbear-female-deformed, .shortfacedbear-female, .shortfacedbear-male-deformed, .shortfacedbear-male, .shortfacedbear-young-deformed, 
+.shortfacedbear-young, .smilodon-male, .snowleopard-female, .snowleopard-male, .snowleopard-young, 
+.spottedhyena-male, .stegosaurus-male, .stellersseaeagle-male, .stokesosaurus-egg, .stokesosaurus-female, 
+.stokesosaurus-male, .stokesosaurus-young, .thomsonsgazelle-female, .thomsonsgazelle-male, .thomsonsgazelle-young, 
+.thylacine-female, .thylacine-male, .thylacine-withyoung, .thylacine-young, .tokaygecko-male, 
+.tyrannosaurus-male, .vaquita-female, .velociraptor-male, .walrus-female-pale, .walrus-female, 
+.walrus-male-pale, .walrus-male, .walrus-young-pale, .walrus-young, .whaleshark-male, 
+.wolverine-female, .wolverine-male, .wolverine-young, .woollymammoth-male
+{ display: inline-block; background: url('https://googledrive.com/host/0Bxk3OmmI9acgfjhWb0JueVZDWFoxaTFBR3g4d3FPRThobGNxOXBSWVhMc2lKTFdmZGFCbkE/64x64SpriteMap.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+ 
+.africanbushelephant-male { background-position: -3px -0px; width: 64px; height: 64px; }
+.africancheetah-male { background-position: -70px -0px; width: 64px; height: 64px; }
+.africanlion-male { background-position: -137px -0px; width: 64px; height: 64px; }
+.africanwilddog-male { background-position: -204px -0px; width: 64px; height: 64px; }
+.amurleopard-female { background-position: -271px -0px; width: 64px; height: 64px; }
+.amurtiger-male { background-position: -338px -0px; width: 64px; height: 64px; }
+.arabianleopard-male { background-position: -405px -0px; width: 64px; height: 64px; }
+.arabianoryx-female { background-position: -472px -0px; width: 64px; height: 64px; }
+.arcticfox-female { background-position: -539px -0px; width: 64px; height: 64px; }
+.arcticfox-male { background-position: -606px -0px; width: 64px; height: 64px; }
+.ayeaye-male { background-position: -673px -0px; width: 64px; height: 64px; }
+.baldeagle-female { background-position: -740px -0px; width: 64px; height: 64px; }
+.beluga-female { background-position: -807px -0px; width: 64px; height: 64px; }
+.beluga-male { background-position: -874px -0px; width: 64px; height: 64px; }
+.beluga-withyoung { background-position: -941px -0px; width: 64px; height: 64px; }
+.beluga-young { background-position: -1008px -0px; width: 64px; height: 64px; }
+.bengaltiger-male { background-position: -3px -67px; width: 64px; height: 64px; }
+.blackfootedferret-male { background-position: -70px -67px; width: 64px; height: 64px; }
+.blackrhinoceros-female { background-position: -137px -67px; width: 64px; height: 64px; }
+.blackrhinoceros-male { background-position: -204px -67px; width: 64px; height: 64px; }
+.blackrhinoceros-young { background-position: -271px -67px; width: 64px; height: 64px; }
+.blacktipreefshark-female { background-position: -338px -67px; width: 64px; height: 64px; }
+.blacktipreefshark-male { background-position: -405px -67px; width: 64px; height: 64px; }
+.blacktipreefshark-young { background-position: -472px -67px; width: 64px; height: 64px; }
+.blobfish-male { background-position: -539px -67px; width: 64px; height: 64px; }
+.bluemarlin-egg { background-position: -606px -67px; width: 64px; height: 64px; }
+.bluemarlin-female { background-position: -673px -67px; width: 64px; height: 64px; }
+.bluemarlin-male { background-position: -740px -67px; width: 64px; height: 64px; }
+.bluemarlin-young { background-position: -807px -67px; width: 64px; height: 64px; }
+.boaconstrictor-female { background-position: -874px -67px; width: 64px; height: 64px; }
+.bottlenosedolphin-female { background-position: -941px -67px; width: 64px; height: 64px; }
+.bottlenosedolphin-male { background-position: -1008px -67px; width: 64px; height: 64px; }
+.bottlenosedolphin-young { background-position: -3px -134px; width: 64px; height: 64px; }
+.burmesepython-male { background-position: -70px -134px; width: 64px; height: 64px; }
+.bushantlereddeer-female-deformed { background-position: -137px -134px; width: 64px; height: 64px; }
+.bushantlereddeer-female { background-position: -204px -134px; width: 64px; height: 64px; }
+.bushantlereddeer-male-deformed { background-position: -271px -134px; width: 64px; height: 64px; }
+.bushantlereddeer-male { background-position: -338px -134px; width: 64px; height: 64px; }
+.bushantlereddeer-young-deformed { background-position: -405px -134px; width: 64px; height: 64px; }
+.bushantlereddeer-young { background-position: -472px -134px; width: 64px; height: 64px; }
+.californiasealion-female { background-position: -539px -134px; width: 64px; height: 64px; }
+.californiasealion-male { background-position: -606px -134px; width: 64px; height: 64px; }
+.californiasealion-young { background-position: -673px -134px; width: 64px; height: 64px; }
+.chimpanzee-female-pink { background-position: -740px -134px; width: 64px; height: 64px; }
+.chimpanzee-female-splitface { background-position: -807px -134px; width: 64px; height: 64px; }
+.chimpanzee-female { background-position: -874px -134px; width: 64px; height: 64px; }
+.chimpanzee-male-pink { background-position: -941px -134px; width: 64px; height: 64px; }
+.chimpanzee-male-splitface { background-position: -1008px -134px; width: 64px; height: 64px; }
+.chimpanzee-male { background-position: -3px -201px; width: 64px; height: 64px; }
+.chimpanzee-withyoung-pink { background-position: -70px -201px; width: 64px; height: 64px; }
+.chimpanzee-withyoung-splitface { background-position: -137px -201px; width: 64px; height: 64px; }
+.chimpanzee-withyoung { background-position: -204px -201px; width: 64px; height: 64px; }
+.chimpanzee-young { background-position: -271px -201px; width: 64px; height: 64px; }
+.chinesepangolin-male { background-position: -338px -201px; width: 64px; height: 64px; }
+.chukarpartridge-male { background-position: -405px -201px; width: 64px; height: 64px; }
+.cloudedleopard-female { background-position: -472px -201px; width: 64px; height: 64px; }
+.crestedgecko-male { background-position: -539px -201px; width: 64px; height: 64px; }
+.crownedsifaka-male { background-position: -606px -201px; width: 64px; height: 64px; }
+.deinosuchus-egg { background-position: -673px -201px; width: 64px; height: 64px; }
+.deinosuchus-female { background-position: -740px -201px; width: 64px; height: 64px; }
+.deinosuchus-male { background-position: -807px -201px; width: 64px; height: 64px; }
+.deinosuchus-young { background-position: -874px -201px; width: 64px; height: 64px; }
+.deinotherium-male { background-position: -941px -201px; width: 64px; height: 64px; }
+.desertrattleback-male { background-position: -1008px -201px; width: 64px; height: 64px; }
+.dilophosaurus-male { background-position: -3px -268px; width: 64px; height: 64px; }
+.drepanosaurus-male { background-position: -70px -268px; width: 64px; height: 64px; }
+.dromedarycamel-female-white { background-position: -137px -268px; width: 64px; height: 64px; }
+.dromedarycamel-female { background-position: -204px -268px; width: 64px; height: 64px; }
+.dromedarycamel-male-white { background-position: -271px -268px; width: 64px; height: 64px; }
+.dromedarycamel-male { background-position: -338px -268px; width: 64px; height: 64px; }
+.dromedarycamel-young-white { background-position: -405px -268px; width: 64px; height: 64px; }
+.dromedarycamel-young { background-position: -472px -268px; width: 64px; height: 64px; }
+.emperorpenguin-egg { background-position: -539px -268px; width: 64px; height: 64px; }
+.emperorpenguin-female { background-position: -606px -268px; width: 64px; height: 64px; }
+.emperorpenguin-male { background-position: -673px -268px; width: 64px; height: 64px; }
+.emperorpenguin-withegg { background-position: -740px -268px; width: 64px; height: 64px; }
+.emperorpenguin-withyoung { background-position: -807px -268px; width: 64px; height: 64px; }
+.emperorpenguin-young { background-position: -874px -268px; width: 64px; height: 64px; }
+.eurasiancavelion-female { background-position: -941px -268px; width: 64px; height: 64px; }
+.eurasiancavelion-male { background-position: -1008px -268px; width: 64px; height: 64px; }
+.eurasiancavelion-young { background-position: -3px -335px; width: 64px; height: 64px; }
+.gemsbok-female { background-position: -70px -335px; width: 64px; height: 64px; }
+.gemsbok-male { background-position: -137px -335px; width: 64px; height: 64px; }
+.gemsbok-young { background-position: -204px -335px; width: 64px; height: 64px; }
+.giantoarfish-male { background-position: -271px -335px; width: 64px; height: 64px; }
+.giantpacificoctopus-male { background-position: -338px -335px; width: 64px; height: 64px; }
+.giantpanda-male { background-position: -405px -335px; width: 64px; height: 64px; }
+.giantsableantelope-female { background-position: -472px -335px; width: 64px; height: 64px; }
+.giantsableantelope-male { background-position: -539px -335px; width: 64px; height: 64px; }
+.giantsableantelope-young { background-position: -606px -335px; width: 64px; height: 64px; }
+.goblinshark-female { background-position: -673px -335px; width: 64px; height: 64px; }
+.goblinshark-male { background-position: -740px -335px; width: 64px; height: 64px; }
+.goblinshark-young { background-position: -807px -335px; width: 64px; height: 64px; }
+.grantszebra-female { background-position: -874px -335px; width: 64px; height: 64px; }
+.grantszebra-male { background-position: -941px -335px; width: 64px; height: 64px; }
+.grantszebra-young { background-position: -1008px -335px; width: 64px; height: 64px; }
+.greatblueturaco-male { background-position: -3px -402px; width: 64px; height: 64px; }
+.greaterflamingo-egg { background-position: -70px -402px; width: 64px; height: 64px; }
+.greaterflamingo-female-wild { background-position: -137px -402px; width: 64px; height: 64px; }
+.greaterflamingo-female { background-position: -204px -402px; width: 64px; height: 64px; }
+.greaterflamingo-male-wild { background-position: -271px -402px; width: 64px; height: 64px; }
+.greaterflamingo-male { background-position: -338px -402px; width: 64px; height: 64px; }
+.greaterflamingo-young { background-position: -405px -402px; width: 64px; height: 64px; }
+.greywolf-female-arctic { background-position: -472px -402px; width: 64px; height: 64px; }
+.greywolf-female-arcticeurasian { background-position: -539px -402px; width: 64px; height: 64px; }
+.greywolf-female-arcticiberian { background-position: -606px -402px; width: 64px; height: 64px; }
+.greywolf-female-arcticnorthwestern { background-position: -673px -402px; width: 64px; height: 64px; }
+.greywolf-female-eurasian { background-position: -740px -402px; width: 64px; height: 64px; }
+.greywolf-female-eurasianiberian { background-position: -807px -402px; width: 64px; height: 64px; }
+.greywolf-female-eurasiannorthwestern { background-position: -874px -402px; width: 64px; height: 64px; }
+.greywolf-female-iberian { background-position: -941px -402px; width: 64px; height: 64px; }
+.greywolf-female-iberiannorthwestern { background-position: -1008px -402px; width: 64px; height: 64px; }
+.greywolf-female-northwestern { background-position: -3px -469px; width: 64px; height: 64px; }
+.greywolf-male-arctic { background-position: -70px -469px; width: 64px; height: 64px; }
+.greywolf-male-arcticeurasian { background-position: -137px -469px; width: 64px; height: 64px; }
+.greywolf-male-arcticiberian { background-position: -204px -469px; width: 64px; height: 64px; }
+.greywolf-male-arcticnorthwestern { background-position: -271px -469px; width: 64px; height: 64px; }
+.greywolf-male-eurasian { background-position: -338px -469px; width: 64px; height: 64px; }
+.greywolf-male-eurasianiberian { background-position: -405px -469px; width: 64px; height: 64px; }
+.greywolf-male-eurasiannorthwestern { background-position: -472px -469px; width: 64px; height: 64px; }
+.greywolf-male-iberian { background-position: -539px -469px; width: 64px; height: 64px; }
+.greywolf-male-iberiannorthwestern { background-position: -606px -469px; width: 64px; height: 64px; }
+.greywolf-male-northwestern { background-position: -673px -469px; width: 64px; height: 64px; }
+.greywolf-young-arctic { background-position: -740px -469px; width: 64px; height: 64px; }
+.greywolf-young-arcticeurasian { background-position: -807px -469px; width: 64px; height: 64px; }
+.greywolf-young-arcticiberian { background-position: -874px -469px; width: 64px; height: 64px; }
+.greywolf-young-arcticnorthwestern { background-position: -941px -469px; width: 64px; height: 64px; }
+.greywolf-young-eurasian { background-position: -1008px -469px; width: 64px; height: 64px; }
+.greywolf-young-eurasianiberian { background-position: -3px -536px; width: 64px; height: 64px; }
+.greywolf-young-eurasiannorthwestern { background-position: -70px -536px; width: 64px; height: 64px; }
+.greywolf-young-iberian { background-position: -137px -536px; width: 64px; height: 64px; }
+.greywolf-young-iberiannorthwestern { background-position: -204px -536px; width: 64px; height: 64px; }
+.greywolf-young-northwestern { background-position: -271px -536px; width: 64px; height: 64px; }
+.hainangibbon-male { background-position: -338px -536px; width: 64px; height: 64px; }
+.harpseal-young { background-position: -405px -536px; width: 64px; height: 64px; }
+.indianpeafowl-egg { background-position: -472px -536px; width: 64px; height: 64px; }
+.indianpeafowl-female-blackshoulder { background-position: -539px -536px; width: 64px; height: 64px; }
+.indianpeafowl-female-blackshouldersplit { background-position: -606px -536px; width: 64px; height: 64px; }
+.indianpeafowl-female-split { background-position: -673px -536px; width: 64px; height: 64px; }
+.indianpeafowl-female-white { background-position: -740px -536px; width: 64px; height: 64px; }
+.indianpeafowl-female { background-position: -807px -536px; width: 64px; height: 64px; }
+.indianpeafowl-male-blackshoulder { background-position: -874px -536px; width: 64px; height: 64px; }
+.indianpeafowl-male-blackshouldersplit { background-position: -941px -536px; width: 64px; height: 64px; }
+.indianpeafowl-male-split { background-position: -1008px -536px; width: 64px; height: 64px; }
+.indianpeafowl-male-white { background-position: -3px -603px; width: 64px; height: 64px; }
+.indianpeafowl-male { background-position: -70px -603px; width: 64px; height: 64px; }
+.indianpeafowl-young-blackshoulder { background-position: -137px -603px; width: 64px; height: 64px; }
+.indianpeafowl-young-blackshouldersplit { background-position: -204px -603px; width: 64px; height: 64px; }
+.indianpeafowl-young-split { background-position: -271px -603px; width: 64px; height: 64px; }
+.indianpeafowl-young-white { background-position: -338px -603px; width: 64px; height: 64px; }
+.indianpeafowl-young { background-position: -405px -603px; width: 64px; height: 64px; }
+.indochinesegreenpeafowl-male { background-position: -472px -603px; width: 64px; height: 64px; }
+.kaleb-male { background-position: -539px -603px; width: 64px; height: 64px; }
+.killerpenguin-egg { background-position: -606px -603px; width: 64px; height: 64px; }
+.killerpenguin-female { background-position: -673px -603px; width: 64px; height: 64px; }
+.killerpenguin-male { background-position: -740px -603px; width: 64px; height: 64px; }
+.killerpenguin-young { background-position: -807px -603px; width: 64px; height: 64px; }
+.leatherbackseaturtle-egg { background-position: -874px -603px; width: 64px; height: 64px; }
+.leatherbackseaturtle-female { background-position: -941px -603px; width: 64px; height: 64px; }
+.leatherbackseaturtle-male { background-position: -1008px -603px; width: 64px; height: 64px; }
+.leatherbackseaturtle-young { background-position: -3px -670px; width: 64px; height: 64px; }
+.manedwolf-male { background-position: -70px -670px; width: 64px; height: 64px; }
+.mountaingorilla-male { background-position: -137px -670px; width: 64px; height: 64px; }
+.muskox-female { background-position: -204px -670px; width: 64px; height: 64px; }
+.muskox-male { background-position: -271px -670px; width: 64px; height: 64px; }
+.muskox-young { background-position: -338px -670px; width: 64px; height: 64px; }
+.narwhal-female { background-position: -405px -670px; width: 64px; height: 64px; }
+.narwhal-male-doubletusk { background-position: -472px -670px; width: 64px; height: 64px; }
+.narwhal-male { background-position: -539px -670px; width: 64px; height: 64px; }
+.narwhal-withyoung { background-position: -606px -670px; width: 64px; height: 64px; }
+.narwhal-young { background-position: -673px -670px; width: 64px; height: 64px; }
+.nilecrocodile-egg { background-position: -740px -670px; width: 64px; height: 64px; }
+.nilecrocodile-female { background-position: -807px -670px; width: 64px; height: 64px; }
+.nilecrocodile-male { background-position: -874px -670px; width: 64px; height: 64px; }
+.nilecrocodile-young { background-position: -941px -670px; width: 64px; height: 64px; }
+.nilemonitor-male { background-position: -1008px -670px; width: 64px; height: 64px; }
+.northamericanriverotter-male { background-position: -3px -737px; width: 64px; height: 64px; }
+.okapi-male { background-position: -70px -737px; width: 64px; height: 64px; }
+.orca-female { background-position: -137px -737px; width: 64px; height: 64px; }
+.orca-male { background-position: -204px -737px; width: 64px; height: 64px; }
+.orca-withyoung { background-position: -271px -737px; width: 64px; height: 64px; }
+.orca-young { background-position: -338px -737px; width: 64px; height: 64px; }
+.ornatehawkeagle-male { background-position: -405px -737px; width: 64px; height: 64px; }
+.ostrich-egg { background-position: -472px -737px; width: 64px; height: 64px; }
+.ostrich-female-cross { background-position: -539px -737px; width: 64px; height: 64px; }
+.ostrich-female-somali { background-position: -606px -737px; width: 64px; height: 64px; }
+.ostrich-female { background-position: -673px -737px; width: 64px; height: 64px; }
+.ostrich-male-cross { background-position: -740px -737px; width: 64px; height: 64px; }
+.ostrich-male-somali { background-position: -807px -737px; width: 64px; height: 64px; }
+.ostrich-male { background-position: -874px -737px; width: 64px; height: 64px; }
+.ostrich-young { background-position: -941px -737px; width: 64px; height: 64px; }
+.polarbear-female { background-position: -1008px -737px; width: 64px; height: 64px; }
+.polarbear-male { background-position: -3px -804px; width: 64px; height: 64px; }
+.polarbear-withyoung { background-position: -70px -804px; width: 64px; height: 64px; }
+.polarbear-young { background-position: -137px -804px; width: 64px; height: 64px; }
+.pug-male { background-position: -204px -804px; width: 64px; height: 64px; }
+.redkangaroo-female { background-position: -271px -804px; width: 64px; height: 64px; }
+.redkangaroo-male { background-position: -338px -804px; width: 64px; height: 64px; }
+.redkangaroo-withyoung { background-position: -405px -804px; width: 64px; height: 64px; }
+.redkangaroo-young { background-position: -472px -804px; width: 64px; height: 64px; }
+.redpanda-female { background-position: -539px -804px; width: 64px; height: 64px; }
+.redpanda-male { background-position: -606px -804px; width: 64px; height: 64px; }
+.redpanda-young { background-position: -673px -804px; width: 64px; height: 64px; }
+.reefmantaray-female { background-position: -740px -804px; width: 64px; height: 64px; }
+.reefmantaray-male { background-position: -807px -804px; width: 64px; height: 64px; }
+.reefmantaray-young { background-position: -874px -804px; width: 64px; height: 64px; }
+.reindeer-female-blitzen { background-position: -941px -804px; width: 64px; height: 64px; }
+.reindeer-female-dancer { background-position: -1008px -804px; width: 64px; height: 64px; }
+.reindeer-female-prancer { background-position: -3px -871px; width: 64px; height: 64px; }
+.reindeer-female-vixen { background-position: -70px -871px; width: 64px; height: 64px; }
+.reindeer-female { background-position: -137px -871px; width: 64px; height: 64px; }
+.reindeer-male-comet { background-position: -204px -871px; width: 64px; height: 64px; }
+.reindeer-male-cupid { background-position: -271px -871px; width: 64px; height: 64px; }
+.reindeer-male-dasher { background-position: -338px -871px; width: 64px; height: 64px; }
+.reindeer-male-donner { background-position: -405px -871px; width: 64px; height: 64px; }
+.reindeer-male-rudolph { background-position: -472px -871px; width: 64px; height: 64px; }
+.reindeer-male { background-position: -539px -871px; width: 64px; height: 64px; }
+.reindeer-young { background-position: -606px -871px; width: 64px; height: 64px; }
+.reticulatedgiraffe-male { background-position: -673px -871px; width: 64px; height: 64px; }
+.ringtailedlemur-male { background-position: -740px -871px; width: 64px; height: 64px; }
+.ringtailedmongoose { background-position: -807px -871px; width: 64px; height: 64px; }
+.rockhopperpenguin-egg { background-position: -874px -871px; width: 64px; height: 64px; }
+.rockhopperpenguin-female { background-position: -941px -871px; width: 64px; height: 64px; }
+.rockhopperpenguin-male { background-position: -1008px -871px; width: 64px; height: 64px; }
+.rockhopperpenguin-young { background-position: -3px -938px; width: 64px; height: 64px; }
+.scallopedhammerheadshark-female { background-position: -70px -938px; width: 64px; height: 64px; }
+.scallopedhammerheadshark-male { background-position: -137px -938px; width: 64px; height: 64px; }
+.scallopedhammerheadshark-young { background-position: -204px -938px; width: 64px; height: 64px; }
+.sclaterslemur-male { background-position: -271px -938px; width: 64px; height: 64px; }
+.seaotter-female-whitehead { background-position: -338px -938px; width: 64px; height: 64px; }
+.seaotter-female { background-position: -405px -938px; width: 64px; height: 64px; }
+.seaotter-male-whitehead { background-position: -472px -938px; width: 64px; height: 64px; }
+.seaotter-male { background-position: -539px -938px; width: 64px; height: 64px; }
+.seaotter-young-whitehead { background-position: -606px -938px; width: 64px; height: 64px; }
+.seaotter-young { background-position: -673px -938px; width: 64px; height: 64px; }
+.shortfacedbear-female-deformed { background-position: -740px -938px; width: 64px; height: 64px; }
+.shortfacedbear-female { background-position: -807px -938px; width: 64px; height: 64px; }
+.shortfacedbear-male-deformed { background-position: -874px -938px; width: 64px; height: 64px; }
+.shortfacedbear-male { background-position: -941px -938px; width: 64px; height: 64px; }
+.shortfacedbear-young-deformed { background-position: -1008px -938px; width: 64px; height: 64px; }
+.shortfacedbear-young { background-position: -3px -1005px; width: 64px; height: 64px; }
+.smilodon-male { background-position: -70px -1005px; width: 64px; height: 64px; }
+.snowleopard-female { background-position: -137px -1005px; width: 64px; height: 64px; }
+.snowleopard-male { background-position: -204px -1005px; width: 64px; height: 64px; }
+.snowleopard-young { background-position: -271px -1005px; width: 64px; height: 64px; }
+.spottedhyena-male { background-position: -338px -1005px; width: 64px; height: 64px; }
+.stegosaurus-male { background-position: -405px -1005px; width: 64px; height: 64px; }
+.stellersseaeagle-male { background-position: -472px -1005px; width: 64px; height: 64px; }
+.stokesosaurus-egg { background-position: -539px -1005px; width: 64px; height: 64px; }
+.stokesosaurus-female { background-position: -606px -1005px; width: 64px; height: 64px; }
+.stokesosaurus-male { background-position: -673px -1005px; width: 64px; height: 64px; }
+.stokesosaurus-young { background-position: -740px -1005px; width: 64px; height: 64px; }
+.thomsonsgazelle-female { background-position: -807px -1005px; width: 64px; height: 64px; }
+.thomsonsgazelle-male { background-position: -874px -1005px; width: 64px; height: 64px; }
+.thomsonsgazelle-young { background-position: -941px -1005px; width: 64px; height: 64px; }
+.thylacine-female { background-position: -1008px -1005px; width: 64px; height: 64px; }
+.thylacine-male { background-position: -3px -1072px; width: 64px; height: 64px; }
+.thylacine-withyoung { background-position: -70px -1072px; width: 64px; height: 64px; }
+.thylacine-young { background-position: -137px -1072px; width: 64px; height: 64px; }
+.tokaygecko-male { background-position: -204px -1072px; width: 64px; height: 64px; }
+.tyrannosaurus-male { background-position: -271px -1072px; width: 64px; height: 64px; }
+.vaquita-female { background-position: -338px -1072px; width: 64px; height: 64px; }
+.velociraptor-male { background-position: -405px -1072px; width: 64px; height: 64px; }
+.walrus-female-pale { background-position: -472px -1072px; width: 64px; height: 64px; }
+.walrus-female { background-position: -539px -1072px; width: 64px; height: 64px; }
+.walrus-male-pale { background-position: -606px -1072px; width: 64px; height: 64px; }
+.walrus-male { background-position: -673px -1072px; width: 64px; height: 64px; }
+.walrus-young-pale { background-position: -740px -1072px; width: 64px; height: 64px; }
+.walrus-young { background-position: -807px -1072px; width: 64px; height: 64px; }
+.whaleshark-male { background-position: -874px -1072px; width: 64px; height: 64px; }
+.wolverine-female { background-position: -941px -1072px; width: 64px; height: 64px; }
+.wolverine-male { background-position: -1008px -1072px; width: 64px; height: 64px; }
+.wolverine-young { background-position: -3px -1139px; width: 64px; height: 64px; }
+.woollymammoth-male { background-position: -70px -1139px; width: 64px; height: 64px; }
