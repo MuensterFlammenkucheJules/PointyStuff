@@ -1,6 +1,6 @@
 //<![CDATA[
 
-var t_award2 = {
+var t_award = {
 
 name : "Old Zoo",
 
