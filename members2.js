@@ -10,7 +10,7 @@ var app = 3; // Amount per post
 
 myusers = new Array(); // myusers[y]=["USER ID", AMOUNT];
 
-myusers[0] = ["5160290", 5000]; // Jules
+myusers[0] = ["5160290", 100]; // Jules
 
 $(".user_info").each(function() {
   var re = /,/g;
