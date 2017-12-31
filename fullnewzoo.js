@@ -18,6 +18,8 @@ users : [
 
 //Takara
 [3894166,"Orca","https://i.imgur.com/fljlqnd.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3894166,"Dall's Sheep","https://i.imgur.com/e81fTtH.png","First place winner of the <b>Christmas at the Zoo</b> zoobuilding contest","January 1, 2018"],
+[3894166,"Beluga","https://i.imgur.com/fqYrUuk.png","First place winner of the <b>Postcards from the North Pole</b> ingame photography contest","January 1, 2018"],
 
 //Yi Qi
 [3532687,"Siamang","https://i.imgur.com/y2F4dBu.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -30,15 +32,17 @@ users : [
 
 //Taigerus4
 [6138037,"Brown Basilisk","https://i.imgur.com/JC81oN6.png","Merry Christmas and a happy New Year!","January 1, 2018"],
-[6138037,"Sea Wolf","https://i.imgur.com/szAXYwI.png","Third place winnter of the <b>Creature Creation V4</b> Contest","January 1, 2018"],
+[6138037,"Sea Wolf","https://i.imgur.com/ViVBv9S.png","Third place winner of the <b>Creature Creation V4</b> contest","January 1, 2018"],
 
 //Cross
 [3824595,"Oarfish","https://i.imgur.com/OzJp4ds.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 
 //Arrancon
 [3536477,"Welsh Corgi Pembroke","https://i.imgur.com/o9kflkW.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3536477,"Beluga","https://i.imgur.com/fqYrUuk.png","Second place winner of the <b>Christmas at the Zoo</b> zoobuilding contest","January 1, 2018"],
+[3536477,"<i>Nanuqsaurus hoglundi</i>","https://i.imgur.com/iUrMGBj.png","Third place winner of the <b>Postcards from the North Pole</b> ingame photography contest","January 1, 2018"],
 
-//lgcfm
+//Lgcfm
 [3525937,"Snow Leopard","https://i.imgur.com/FkdhocO.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 
 //Dylan
@@ -48,7 +52,7 @@ users : [
 [6136261,"Ivory-Billed Woodpecker","https://i.imgur.com/VzTNOZZ.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 
 //Jules
-[3525512,"Hammerkop","https://i.imgur.com/lKyscLQ.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3525512,"Hamerkop","https://i.imgur.com/lKyscLQ.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 
 //TheYeti
 [3534069,"Blobfish","https://i.imgur.com/hwczYYH.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -72,7 +76,7 @@ users : [
 [4132534,"African Forest Elephant","https://i.imgur.com/EcFfJI4.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 
 //Fireplume
-[3543875,"Ornate Hawk Eagle","https://i.imgur.com/YDJeWlC.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3543875,"Ornate Hawk-Eagle","https://i.imgur.com/YDJeWlC.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 
 //caviar
 [3524063,"Andean Motmot","https://i.imgur.com/eQy1Fg3.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -88,7 +92,7 @@ users : [
 
 //Acinonyx Jubatus
 [3532656,"<i>Anurognathus ammoni</i>","https://i.imgur.com/GzBzJ8e.png","Merry Christmas and a happy New Year!","January 1, 2018"],
-[3532656,"Wolfin","https://i.imgur.com/r09fcjm.png","First place winner of the <b>Creature Creation V4</b> Contest","January 1, 2018"],
+[3532656,"Wolfin","https://i.imgur.com/JLtWKNB.png","First place winner of the <b>Creature Creation V4</b> contest","January 1, 2018"],
 
 //Okeanos
 [3530430,"<i>Dacentrurus armatus</i>","https://i.imgur.com/f3q1pqc.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -98,6 +102,10 @@ users : [
 
 //Burns
 [3638429,"Black-and-White Ruffed Lemur","https://i.imgur.com/Tz2Zbhh.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3638429,"Infinite Monkey","https://i.imgur.com/Yy93i4r.png","It does stand to reason that if you put a monkey at a computer for an infinite period of time and opened ZT2, eventually it would build three rounds' worth of primate exhibits.","January 1, 2018"],
+[3638429,"Whooping Crane","https://i.imgur.com/AzVuH9Z.png","Second place winner of the <b>Hometown Zoo</b> zoobuilding contest","January 1, 2018"],
+[3638429,"Dall's Sheep","https://i.imgur.com/e81fTtH.png","First place winner of the <b>Christmas at the Zoo</b> zoobuilding contest","January 1, 2018"],
+[3638429,"Beluga","https://i.imgur.com/fqYrUuk.png","First place winner of the <b>Postcards from the North Pole</b> ingame photography contest","January 1, 2018"],
 
 //Azrael
 [3537401,"Gemsbok","https://i.imgur.com/3btsJe7.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -128,6 +136,7 @@ users : [
 
 //Thom
 [3526597,"Platypus","https://i.imgur.com/XaO93tB.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3526597,"Infinite Monkey","https://i.imgur.com/Yy93i4r.png","It does stand to reason that if you put a monkey at a computer for an infinite period of time and opened ZT2, eventually it would build three rounds' worth of primate exhibits.","January 1, 2018"],
 
 //Cheshire Litten
 [3990249,"<i>Therizinosaurus cheloniformis</i>","https://i.imgur.com/attuE5a.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -143,8 +152,9 @@ users : [
 
 //AnimalGenius
 [4138608,"Coquerel's Sifaka","https://i.imgur.com/aBNe37V.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[4138608,"Infinite Monkey","https://i.imgur.com/Yy93i4r.png","It does stand to reason that if you put a monkey at a computer for an infinite period of time and opened ZT2, eventually it would build three rounds' worth of primate exhibits.","January 1, 2018"],
 
-//Bossman, Jake
+//BossMan, Jake
 [4107732,"Blue-Tongued Skinki","https://i.imgur.com/cukXhba.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 
 //TheToastinator
@@ -155,6 +165,7 @@ users : [
 
 //Paleodude
 [3556536,"<i>Majungasaurus crenatissimus</i>","https://i.imgur.com/9tKSaZC.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3556536,"Rock Ptarmigan","https://i.imgur.com/GGhwMSE.png","Third place winner of the <b>Christmas at the Zoo</b> zoobuilding contest","January 1, 2018"],
 
 //tigerdrake
 [6151109,"Indochinese Tiger","https://i.imgur.com/oElCs08.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -254,12 +265,30 @@ users : [
 
 //Anton
 [3526393,"Long-Wattled Umbrellabird","https://i.imgur.com/doWtE9W.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3526393,"Andean Cock-of-the-Rock","https://i.imgur.com/7cQK5Qa.png","First place winner of the <b>A Walk in the Park</b> exhibit building contest","January 1, 2018"],
 
 //Zoo Tycooner FR
-[3958058,"Rufous-Tailed Scrub Robin","https://i.imgur.com/3joeY2j.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3958058,"Long-Tailed Manakin","https://i.imgur.com/hWFwviu.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3958058,"Black Wildebeest","https://i.imgur.com/KdEaj6N.png","First place winner of the <b>Hometown Zoo</b> zoobuilding contest","January 1, 2018"],
+[3958058,"Polar Bear","https://i.imgur.com/Xqtskab.png","Second place winner of the <b>Postcards from the North Pole</b> ingame photography contest","January 1, 2018"],
 
 //Rangifer
-[4045803,"Grassland Hedgehound","https://i.imgur.com/xXz6W5O.png","Second place winner of the <b>Creature Creation V4</b> contest","January 1, 2018"],
+[4045803,"Grassland Hedgehound","https://i.imgur.com/y4NKRhp.png","Second place winner of the <b>Creature Creation V4</b> contest","January 1, 2018"],
+
+//Uolym
+[3526544,"Black-Footed Ferret","https://i.imgur.com/ACrZMvt.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+
+//Rolo
+[3752794,"Dalmatian Pelican","https://i.imgur.com/rDZfBkd.png","First place winner of the <b>A Taste of Nature</b> photography contest","January 1, 2018"],
+
+//Rolo
+[3752794,"Bobcat","https://i.imgur.com/pkRuLWO.png","Second place winner of the <b>A Taste of Nature</b> photography contest","January 1, 2018"],
+
+//Keniafan
+[3628856,"Dalmatian Pelican","https://i.imgur.com/rDZfBkd.png","Third place winner of the <b>A Taste of Nature</b> photography contest","January 1, 2018"],
+
+//stargatedalek
+[3565764,"<i>Kronosaurus boyacensis</i>","https://i.imgur.com/LShB0hI.png","Third place winner of the <b>Hometown Zoo</b> zoobuilding contest","January 1, 2018"],
 ]
 
 }
