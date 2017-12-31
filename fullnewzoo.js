@@ -29,6 +29,8 @@ users : [
 
 //RGDS
 [6067973,"Tonkin Snub-Nosed Monkey","https://i.imgur.com/KyLKGnj.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[6067973,"Black Crested Gibbon","https://i.imgur.com/cAwa4Oe.png","Purchased from the Pointies Shop for 700 pointies.","January 1, 2018"],
+[6067973,"Emperor Tamarin","https://i.imgur.com/dQN4bNb.png","Second place winner of the <b>A Walk in the Park</b> exhibit building contest.","January 1, 2018"],
 
 //Taigerus4
 [6138037,"Brown Basilisk","https://i.imgur.com/JC81oN6.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -86,6 +88,8 @@ users : [
 
 //Danny
 [3465774,"Platypus","https://i.imgur.com/XaO93tB.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3465774,"Bengal Tiger","https://i.imgur.com/Xxgb54W.png","Purchased from the Pointies Shop for 800 pointies.","January 1, 2018"],
+[3465774,"Javan Rhinoceros","https://i.imgur.com/iK1Sa8j.png","Purchased from the Pointies Shop for 1200 pointies.","January 1, 2018"],
 
 //antek234
 [6103681,"Spotted Genet","https://i.imgur.com/QMVV9GT.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -115,6 +119,9 @@ users : [
 
 //Denomon3144	
 [3592146,"Thylacine","https://i.imgur.com/xrEAsW6.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3592146,"Common Bottlenose Dolphin","https://i.imgur.com/r5WKLrE.png","Purchased from the Pointies Shop for 800 pointies.","January 1, 2018"],
+[3592146,"<i>Stokesosaurus clevelandi</i>","https://i.imgur.com/nfOP13S.png","Purchased from the Pointies Shop for 600 pointies.","January 1, 2018"],
+[3592146,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Purchased from the Pointies Shop for 400 pointies.","January 1, 2018"],
 
 //EsserWarrior
 [4079658,"Lar Gibbon","https://i.imgur.com/uO5QOia.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -127,6 +134,8 @@ users : [
 
 //Priya
 [3745532,"Asiatic Lion","https://i.imgur.com/pnj0Elc.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3745532,"Bengal Tiger","https://i.imgur.com/Xxgb54W.png","Purchased from the Pointies Shop for 800 pointies.","January 1, 2018"],
+[3745532,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Purchased from the Pointies Shop for 400 pointies.","January 1, 2018"],
 
 //Dragon_Girl05
 [4222133,"Argali","https://i.imgur.com/IPTOPNu.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -289,6 +298,9 @@ users : [
 
 //stargatedalek
 [3565764,"<i>Kronosaurus boyacensis</i>","https://i.imgur.com/LShB0hI.png","Third place winner of the <b>Hometown Zoo</b> zoobuilding contest.","January 1, 2018"],
+
+//Keiko
+[4070139,"Orca","https://i.imgur.com/fljlqnd.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 ]
 
 }
