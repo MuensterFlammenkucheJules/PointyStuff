@@ -12,7 +12,7 @@ myusers = new Array(); // myusers[y]=["USER ID", AMOUNT];
 
 myusers[0] = ["3525948", -44638]; // Furka
 myusers[1] = ["3526644", -41113]; // Ignacio
-myusers[2] = ["3537401", -20122]; // Azrael
+myusers[2] = ["3537401", -20922]; // Azrael
 myusers[3] = ["3524828", -19834]; // Cat
 myusers[4] = ["3636620", -19192]; // CyborgIguana
 myusers[5] = ["3525512", -18094]; // Jules
@@ -64,7 +64,7 @@ myusers[50] = ["3879601", -4107]; // Wes
 myusers[51] = ["3691243", -3295]; // Hamikins
 myusers[52] = ["3465719", -3253]; // jragonizer
 myusers[53] = ["3528535", -3253]; // davidy12
-myusers[54] = ["3544661", -3220]; // Flish
+myusers[54] = ["3544661", -5070]; // Flish
 myusers[55] = ["3822293", -3217]; // Taurotragus
 myusers[56] = ["3927582", -2968]; // Papageno
 myusers[57] = ["3893149", -2833]; // Envy
@@ -117,7 +117,7 @@ myusers[103] = ["3621684", -1045]; // Alterbean7
 myusers[104] = ["3618086", -1024]; // bayu
 myusers[105] = ["3591287", -994]; // pokeruto
 myusers[106] = ["4031981", -985]; // Paleop
-myusers[107] = ["4055238", -970]; // KoenZoo
+myusers[107] = ["4055238", -2870]; // KoenZoo
 myusers[108] = ["4079658", -2828]; // EsserWarrior
 myusers[109] = ["3745497", -904]; // Rezcall
 myusers[110] = ["3564648", -850]; // Avenged
@@ -158,6 +158,7 @@ myusers[144] = ["6017621", -950]; // Cole12345
 myusers[145] = ["4138347", -550]; // DiegoThePython
 myusers[146] = ["6056875", -400]; // Deerfad
 myusers[147] = ["3527830", -750]; // Dinosaure99
+myusers[148] = ["4237659", -400]; // UraniumThylacine
 
 $(".user_info").each(function() {
   var re = /,/g;

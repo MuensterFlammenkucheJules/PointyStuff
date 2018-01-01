@@ -75,6 +75,7 @@ users : [
 
 //UraniumThylacine
 [4237659,"Siberian Tiger","https://i.imgur.com/zBXVKDk.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[4237659,"Dodo","https://i.imgur.com/FkfaLlZ.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 1, 2018"],
 
 //Scott
 [3525967,"Rainbow Agama","https://i.imgur.com/yL6svGb.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -118,6 +119,7 @@ users : [
 
 //Azrael
 [3537401,"Gemsbok","https://i.imgur.com/3btsJe7.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3537401,"Bengal Tiger","https://i.imgur.com/Xxgb54W.png","Purchased from the Pointies Shop for <b>800 pointies</b>.","January 1, 2018"],
 
 //magpiealamode
 [4221754,"<i>Lokotunjailurus emageritus</i>","https://i.imgur.com/uHwd6Un.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -331,6 +333,14 @@ users : [
 
 //Dinosaure99
 [3527830,"African Buffalo","https://i.imgur.com/v72U2oQ.png","Purchased from the Pointies Shop for <b>750 pointies</b>.","January 1, 2018"],
+
+//KoenZoo
+[4055238,"Javan Rhinoceros","https://i.imgur.com/iK1Sa8j.png","Purchased from the Pointies Shop for <b>1200 pointies</b>.","January 1, 2018"],
+[4055238,"Black Crested Gibbon","https://i.imgur.com/cAwa4Oe.png","Purchased from the Pointies Shop for <b>700 pointies</b>.","January 1, 2018"],
+
+//Flish
+[3544661,"Baird's Tapir","https://i.imgur.com/uUnOWye.png","Purchased from the Pointies Shop for <b>650 pointies</b>.","January 1, 2018"],
+[3544661,"Javan Rhinoceros","https://i.imgur.com/iK1Sa8j.png","Purchased from the Pointies Shop for <b>1200 pointies</b>.","January 1, 2018"],
 ]
 
 }
