@@ -100,7 +100,7 @@ users : [
 
 //caviar
 [3524063,"Andean Motmot","https://i.imgur.com/eQy1Fg3.png","Merry Christmas and a happy New Year!","January 1, 2018"],
-[4047746,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 2, 2018"],
+[3524063,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 2, 2018"],
 
 //Orca Freak
 [3526324,"Orca","https://i.imgur.com/fljlqnd.png","Merry Christmas and a happy New Year!","January 1, 2018"],
