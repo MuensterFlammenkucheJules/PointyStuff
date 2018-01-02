@@ -190,7 +190,7 @@ users : [
 
 //Stephen
 [3527293,"Border Collie","https://i.imgur.com/U3dO9Mf.png","Merry Christmas and a happy New Year!","January 1, 2018"],
-[3465774,"Thomson's Gazelle","https://i.imgur.com/bGSxWDP.png","Won from firework #3 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
+[3527293,"Thomson's Gazelle","https://i.imgur.com/bGSxWDP.png","Won from firework #3 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //AnimalGenius
 [4138608,"Coquerel's Sifaka","https://i.imgur.com/aBNe37V.png","Merry Christmas and a happy New Year!","January 1, 2018"],
