@@ -26,6 +26,7 @@ users : [
 
 //Guilmon
 [4004388,"Honey Badger","https://i.imgur.com/OvRt6wv.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[4004388,"Dodo","https://i.imgur.com/FkfaLlZ.png","Won from firework #18 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //RGDS
 [6067973,"Tonkin Snub-Nosed Monkey","https://i.imgur.com/KyLKGnj.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -42,13 +43,19 @@ users : [
 //Arrancon
 [3536477,"Welsh Corgi Pembroke","https://i.imgur.com/o9kflkW.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [3536477,"Beluga","https://i.imgur.com/fqYrUuk.png","Second place winner of the <b>Christmas at the Zoo</b> zoobuilding contest.","January 1, 2018"],
+[3536477,"<i>Kronosaurus boyacensis</i>","https://i.imgur.com/arbErUo.png","Won from firework #19 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"]
 [3536477,"<i>Nanuqsaurus hoglundi</i>","https://i.imgur.com/iUrMGBj.png","Third place winner of the <b>Postcards from the North Pole</b> ingame photography contest.","January 1, 2018"],
+[3536477,"American Mastodon","https://i.imgur.com/ediNzEz.png","Purchased from the Pointies Shop for <b>1000 pointies</b>.","January 2, 2018"],
+[3536477,"<i>Stokesosaurus clevelandi</i>","https://i.imgur.com/nfOP13S.png","Purchased from the Pointies Shop for <b>600 pointies</b>.","January 2, 2018"],
+[3536477,"Dodo","https://i.imgur.com/FkfaLlZ.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 2, 2018"],
 
 //Lgcfm
 [3525937,"Snow Leopard","https://i.imgur.com/FkdhocO.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3927582,"Blue Peafowl (male)","https://i.imgur.com/C2vTIXB.png","Won from firework #9 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //Dylan
 [3988770,"Bali Starling","https://i.imgur.com/HqK8Pls.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3927582,"Blue Peafowl (male)","https://i.imgur.com/C2vTIXB.png","Won from firework #26 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //ZoologicalBotanist
 [6136261,"Ivory-Billed Woodpecker","https://i.imgur.com/VzTNOZZ.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -68,6 +75,7 @@ users : [
 
 //Ignacio
 [3526644,"Harpy Eagle","https://i.imgur.com/47qTtuJ.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3526644,"Orca","https://i.imgur.com/dBvFYGM.png","Won from firework #8 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //Wes
 [3879601,"Common Kingfisher","https://i.imgur.com/Udyz91d.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -76,26 +84,33 @@ users : [
 //UraniumThylacine
 [4237659,"Siberian Tiger","https://i.imgur.com/zBXVKDk.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [4237659,"Dodo","https://i.imgur.com/FkfaLlZ.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 1, 2018"],
+[4237659,"Baird's Tapir","https://i.imgur.com/uUnOWye.png","Won from firework #20 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //Scott
 [3525967,"Rainbow Agama","https://i.imgur.com/yL6svGb.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3525967,"Bengal Tiger","https://i.imgur.com/Xxgb54W.png","Won from firework #24 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //Imperator Furiosa
 [4132534,"African Forest Elephant","https://i.imgur.com/EcFfJI4.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[4132534,"Thomson's Gazelle","https://i.imgur.com/bGSxWDP.png","Won from firework #11 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //Fireplume
 [3543875,"Ornate Hawk-Eagle","https://i.imgur.com/YDJeWlC.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3543875,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Won from firework #32 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //caviar
 [3524063,"Andean Motmot","https://i.imgur.com/eQy1Fg3.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[4047746,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 2, 2018"],
 
 //Orca Freak
 [3526324,"Orca","https://i.imgur.com/fljlqnd.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3927582,"Blue Peafowl (male)","https://i.imgur.com/C2vTIXB.png","Won from firework #4 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //Danny
 [3465774,"Platypus","https://i.imgur.com/XaO93tB.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [3465774,"Bengal Tiger","https://i.imgur.com/Xxgb54W.png","Purchased from the Pointies Shop for <b>800 pointies</b>.","January 1, 2018"],
 [3465774,"Javan Rhinoceros","https://i.imgur.com/iK1Sa8j.png","Purchased from the Pointies Shop for <b>1200 pointies</b>.","January 1, 2018"],
+[3465774,"American Mastodon","https://i.imgur.com/ediNzEz.png","Won from firework #22 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //antek234
 [6103681,"Spotted Genet","https://i.imgur.com/QMVV9GT.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -116,6 +131,7 @@ users : [
 [3638429,"Whooping Crane","https://i.imgur.com/AzVuH9Z.png","Second place winner of the <b>Hometown Zoo</b> zoobuilding contest.","January 1, 2018"],
 [3638429,"Dall's Sheep","https://i.imgur.com/e81fTtH.png","First place winner of the <b>Christmas at the Zoo</b> zoobuilding contest.","January 1, 2018"],
 [3638429,"Beluga","https://i.imgur.com/fqYrUuk.png","First place winner of the <b>Postcards from the North Pole</b> ingame photography contest.","January 1, 2018"],
+[3638429,"African Buffalo","https://i.imgur.com/v72U2oQ.png","Won from firework #14 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //Azrael
 [3537401,"Gemsbok","https://i.imgur.com/3btsJe7.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -125,6 +141,7 @@ users : [
 [4221754,"<i>Lokotunjailurus emageritus</i>","https://i.imgur.com/uHwd6Un.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [4221754,"Baird's Tapir","https://i.imgur.com/uUnOWye.png","Purchased from the Pointies Shop for <b>650 pointies</b>.","January 1, 2018"],
 [4221754,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Thanks for being kind with kind people. Not a magpie but close enough ~ Zoo Tycooner FR","January 1, 2018"],
+[4221754,"Southern Rockhopper Penguin","https://i.imgur.com/u2BDkPv.png","Won from firework #17 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //Denomon3144	
 [3592146,"Thylacine","https://i.imgur.com/xrEAsW6.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -132,6 +149,7 @@ users : [
 [3592146,"<i>Stokesosaurus clevelandi</i>","https://i.imgur.com/nfOP13S.png","Purchased from the Pointies Shop for <b>600 pointies</b>.","January 1, 2018"],
 [3592146,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 1, 2018"],
 [3592146,"Thomson's Gazelle","https://i.imgur.com/bGSxWDP.png","I'm bad at messages ~ DiegoThePython","January 1, 2018"],
+[3592146,"Southern Rockhopper Penguin","https://i.imgur.com/u2BDkPv.png","Won from firework #25 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //EsserWarrior
 [4079658,"Lar Gibbon","https://i.imgur.com/uO5QOia.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -158,9 +176,11 @@ users : [
 //Thom
 [3526597,"Platypus","https://i.imgur.com/XaO93tB.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [3526597,"Infinite Monkey","https://i.imgur.com/Yy93i4r.png","It does stand to reason that if you put a monkey at a computer for an infinite period of time and opened ZT2, eventually it would build three rounds' worth of primate exhibits.","January 1, 2018"],
+[3526597,"Dodo","https://i.imgur.com/FkfaLlZ.png","Won from firework #7 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //Cheshire Litten
 [3990249,"<i>Therizinosaurus cheloniformis</i>","https://i.imgur.com/attuE5a.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3990249,"<i>Stokesosaurus clevelandi</i>","https://i.imgur.com/nfOP13S.png","Purchased from the Pointies Shop for <b>600 pointies</b>.","January 2, 2018"],
 
 //Xenephos
 [3817174,"<i>Linheraptor exquisitus</i>","https://i.imgur.com/zZxqRbf.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -170,6 +190,7 @@ users : [
 
 //Stephen
 [3527293,"Border Collie","https://i.imgur.com/U3dO9Mf.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3465774,"Thomson's Gazelle","https://i.imgur.com/bGSxWDP.png","Won from firework #3 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //AnimalGenius
 [4138608,"Coquerel's Sifaka","https://i.imgur.com/aBNe37V.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -261,6 +282,7 @@ users : [
 
 //SLGray
 [3526222,"Humpback Whale","https://i.imgur.com/A2JEZzV.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3526222,"Green Sea Turtle","https://i.imgur.com/pD1qSQ7.png","Purchased from the Pointies Shop for <b>500 pointies</b>.","January 2, 2018"],
 
 //ZS1972
 [4228609,"Secretary Bird","https://i.imgur.com/f4wjcti.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -293,6 +315,7 @@ users : [
 [3526393,"Long-Wattled Umbrellabird","https://i.imgur.com/JeLb6kV.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [3526393,"Andean Cock-of-the-Rock","https://i.imgur.com/7cQK5Qa.png","First place winner of the <b>A Walk in the Park</b> exhibit building contest.","January 1, 2018"],
 [3526393,"Blue Peafowl (male)","https://i.imgur.com/C2vTIXB.png","Thanks for all your hard work, even though it wasn't asked of you. Was v generous of you to give of your time and effort for us ~ magpiealamode","January 1, 2018"],
+[3526393,"Southern Rockhopper Penguin","https://i.imgur.com/u2BDkPv.png","Purchased from the Pointies Shop for <b>350 pointies</b>.","January 2, 2018"],
 
 //Zoo Tycooner FR
 [3958058,"Long-Tailed Manakin","https://i.imgur.com/hWFwviu.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -341,6 +364,22 @@ users : [
 //Flish
 [3544661,"Baird's Tapir","https://i.imgur.com/uUnOWye.png","Purchased from the Pointies Shop for <b>650 pointies</b>.","January 1, 2018"],
 [3544661,"Javan Rhinoceros","https://i.imgur.com/iK1Sa8j.png","Purchased from the Pointies Shop for <b>1200 pointies</b>.","January 1, 2018"],
+
+//Sergio
+[4047746,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 2, 2018"],
+[4047746,"<i>Velociraptor mongoliensis</i>","https://i.imgur.com/ny9CJzo.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+
+//Furka
+[3525948,"Black Crested Gibbon","https://i.imgur.com/cAwa4Oe.png","Won from firework #23 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
+
+//Scar
+[4012517,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Won from firework #15 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
+
+//Tyranachu
+[3564378,"Baird's Tapir","https://i.imgur.com/uUnOWye.png","Won from firework #5 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
+
+//Papageno
+[3927582,"Blue Peafowl (male)","https://i.imgur.com/C2vTIXB.png","Won from firework #10 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 ]
 
 }
