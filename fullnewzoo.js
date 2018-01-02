@@ -51,11 +51,11 @@ users : [
 
 //Lgcfm
 [3525937,"Snow Leopard","https://i.imgur.com/FkdhocO.png","Merry Christmas and a happy New Year!","January 1, 2018"],
-[3927582,"Blue Peafowl (male)","https://i.imgur.com/C2vTIXB.png","Won from firework #9 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
+[3525937,"Blue Peafowl (male)","https://i.imgur.com/C2vTIXB.png","Won from firework #9 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //Dylan
 [3988770,"Bali Starling","https://i.imgur.com/HqK8Pls.png","Merry Christmas and a happy New Year!","January 1, 2018"],
-[3927582,"Blue Peafowl (male)","https://i.imgur.com/C2vTIXB.png","Won from firework #26 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
+[3988770,"Blue Peafowl (male)","https://i.imgur.com/C2vTIXB.png","Won from firework #26 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //ZoologicalBotanist
 [6136261,"Ivory-Billed Woodpecker","https://i.imgur.com/VzTNOZZ.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -104,7 +104,7 @@ users : [
 
 //Orca Freak
 [3526324,"Orca","https://i.imgur.com/fljlqnd.png","Merry Christmas and a happy New Year!","January 1, 2018"],
-[3927582,"Blue Peafowl (male)","https://i.imgur.com/C2vTIXB.png","Won from firework #4 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
+[3526324,"Blue Peafowl (male)","https://i.imgur.com/C2vTIXB.png","Won from firework #4 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //Danny
 [3465774,"Platypus","https://i.imgur.com/XaO93tB.png","Merry Christmas and a happy New Year!","January 1, 2018"],
