@@ -193,7 +193,7 @@ users : [
 [3526597,"Koala","https://i.imgur.com/28aVQLY.png","Purchased from the Pointies Shop for <b>650 pointies</b>.","January 4, 2018"],
 [3526597,"Infinite Monkey","https://i.imgur.com/Yy93i4r.png","It does stand to reason that if you put a monkey at a computer for an infinite period of time and opened ZT2, eventually it would build three rounds' worth of primate exhibits.","January 1, 2018"],
 [3526597,"Dodo","https://i.imgur.com/FkfaLlZ.png","Won from firework #7 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
-[6056875,"<i>Stokesosaurus clevelandi</i>","https://i.imgur.com/nfOP13S.png","Won from firework #29 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 4, 2018"],
+[3526597,"<i>Stokesosaurus clevelandi</i>","https://i.imgur.com/nfOP13S.png","Won from firework #29 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 4, 2018"],
 
 //Cheshire Litten
 [3990249,"<i>Therizinosaurus cheloniformis</i>","https://i.imgur.com/attuE5a.png","Merry Christmas and a happy New Year!","January 1, 2018"],
