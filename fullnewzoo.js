@@ -415,7 +415,7 @@ users : [
 //Anas Platyrhynchos
 [3591991,"Blue Peafowl (male)","https://i.imgur.com/C2vTIXB.png","Purchasd from the Pointies Shop for <b>250 pointies</b>","January 3, 2018"],
 [3591991,"Thomson's Gazelle","https://i.imgur.com/bGSxWDP.png","Purchased from the Pointies Shop for <b>300 pointies</b>.","January 3, 2018"],
-[3591991,"Dromedary Camel","https://i.imgur.com/bGSxWDP.png","Purchased from the Pointies Shop for <b>300 pointies</b>.","January 3, 2018"],
+[3591991,"Dromedary Camel","https://i.imgur.com/VKI4o33.png","Purchased from the Pointies Shop for <b>300 pointies</b>.","January 3, 2018"],
 [3591991,"<i>Stokesosaurus clevelandi</i>","https://i.imgur.com/nfOP13S.png","Purchased from the Pointies Shop for <b>600 pointies</b>.","January 3, 2018"],
 
 //kepperbob
