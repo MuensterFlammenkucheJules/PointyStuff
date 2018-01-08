@@ -184,7 +184,7 @@ users : [
 [3745532,"<i>Stegosaurus stenops</i>","https://i.imgur.com/LHPcNh3.png","Won from firework #23 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 4, 2018"],
 [3745532,"Asiatic Lion","https://i.imgur.com/pnj0Elc.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [3745532,"Bengal Tiger","https://i.imgur.com/Xxgb54W.png","Purchased from the Pointies Shop for <b>800 pointies</b>.","January 1, 2018"],
-[3745532,"Red Panda","https://i.imgur.com/VD7WiSJ.png","Purchased from the Pointies Shop for <b>500 pointies</b>.","January 4, 2018"]
+[3745532,"Red Panda","https://i.imgur.com/VD7WiSJ.png","Purchased from the Pointies Shop for <b>500 pointies</b>.","January 4, 2018"],
 [3745532,"Dromedary Camel","https://i.imgur.com/VKI4o33.png","Purchased from the Pointies Shop for <b>300 pointies</b>.","January 4, 2018"],
 [3745532,"Thomson's Gazelle","https://i.imgur.com/bGSxWDP.png","Purchased from the Pointies Shop for <b>300 pointies</b>.","January 4, 2018"],
 [3745532,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 1, 2018"],
