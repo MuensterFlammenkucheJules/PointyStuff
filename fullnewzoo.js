@@ -131,6 +131,7 @@ users : [
 
 //Acinonyx Jubatus
 [3532656,"<i>Anurognathus ammoni</i>","https://i.imgur.com/GzBzJ8e.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3532656,"<i>Stokesosaurus clevelandi</i>","https://i.imgur.com/nfOP13S.png","Purchased from the Pointies Shop for <b>600 pointies</b>.","January 8, 2018"],
 [3532656,"Wolfin","https://i.imgur.com/JLtWKNB.png","First place winner of the <b>Creature Creation V4</b> contest.","January 1, 2018"],
 
 //Okeanos
@@ -158,6 +159,7 @@ users : [
 [4221754,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Thanks for being kind with kind people. Not a magpie but close enough ~ Zoo Tycooner FR","January 1, 2018"],
 [4221754,"Southern Rockhopper Penguin","https://i.imgur.com/u2BDkPv.png","Won from firework #17 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 [4221754,"Dromedary Camel","https://i.imgur.com/VKI4o33.png","Won from firework #19 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 4, 2018"],
+[4221754,"Green Sea Turtle","https://i.imgur.com/pD1qSQ7.png","Somebody touch 'a my S P A G H E T ~ Paleodude","January 8, 2018"],
 
 //Denomon3144	
 [3592146,"Thylacine","https://i.imgur.com/xrEAsW6.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -173,6 +175,7 @@ users : [
 [4079658,"Black Crested Gibbon","https://i.imgur.com/cAwa4Oe.png","Purchased from the Pointies Shop for <b>700 pointies</b>.","January 1, 2018"],
 [4079658,"Javan Rhinoceros","https://i.imgur.com/iK1Sa8j.png","Purchased from the Pointies Shop for <b>1200 pointies</b>.","January 1, 2018"],
 [4079658,"Mandrill (male)","https://i.imgur.com/bXDF5R8.png","A Mandrill for the Primate lover ~ Dylan","January 5, 2018"],
+[4079658,"Fossa","https://i.imgur.com/ivE6TZK.png","Won from firework #11 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 7, 2018"],
 
 //xX LRD VDR Xx
 [6151935,"Hamadryas Baboon","https://i.imgur.com/eC2agIv.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -427,6 +430,8 @@ users : [
 [3591991,"Blue Peafowl (male)","https://i.imgur.com/C2vTIXB.png","Purchasd from the Pointies Shop for <b>250 pointies</b>","January 3, 2018"],
 [3591991,"Thomson's Gazelle","https://i.imgur.com/bGSxWDP.png","Purchased from the Pointies Shop for <b>300 pointies</b>.","January 3, 2018"],
 [3591991,"Dromedary Camel","https://i.imgur.com/VKI4o33.png","Purchased from the Pointies Shop for <b>300 pointies</b>.","January 3, 2018"],
+[3591991,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 8, 2018"],
+[3526393,"Southern Rockhopper Penguin","https://i.imgur.com/u2BDkPv.png","Purchased from the Pointies Shop for <b>350 pointies</b>.","January 8, 2018"],
 [3591991,"<i>Stokesosaurus clevelandi</i>","https://i.imgur.com/nfOP13S.png","Purchased from the Pointies Shop for <b>600 pointies</b>.","January 3, 2018"],
 
 //kepperbob
@@ -444,6 +449,9 @@ users : [
 
 //WorkowatyWilczek
 [6020921,"Dodo","https://i.imgur.com/FkfaLlZ.png","Gift ~ antek234","January 7, 2018"],
+
+//Narukota
+[3850948,"Dromedary Camel","https://i.imgur.com/VKI4o33.png","JUST MONIKAMMMMMMMMMM ~ Sergio</b> game.","January 9, 2018"],
 ]
 
 }
