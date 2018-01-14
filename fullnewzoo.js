@@ -445,6 +445,7 @@ users : [
 [6114674,"African Buffalo","https://i.imgur.com/v72U2oQ.png","The closest I could get to a Caribou ;) ~ Sergio","January 4, 2018"],
 
 //Ádám3
+[4150714,"Indochinese Tiger","https://i.imgur.com/oElCs08.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [4150714,"Green Sea Turtle","https://i.imgur.com/pD1qSQ7.png","Won from firework #18 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 4, 2018"],
 
 //WorkowatyWilczek
@@ -452,6 +453,9 @@ users : [
 
 //Narukota
 [3850948,"Dromedary Camel","https://i.imgur.com/VKI4o33.png","JUST MONIKAMMMMMMMMMM ~ Sergio</b> game.","January 9, 2018"],
+
+//Rezcall
+[3745497,"Labrador Retriever","https://i.imgur.com/RAaotro.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 ]
 
 }
