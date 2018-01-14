@@ -431,7 +431,7 @@ users : [
 [3591991,"Thomson's Gazelle","https://i.imgur.com/bGSxWDP.png","Purchased from the Pointies Shop for <b>300 pointies</b>.","January 3, 2018"],
 [3591991,"Dromedary Camel","https://i.imgur.com/VKI4o33.png","Purchased from the Pointies Shop for <b>300 pointies</b>.","January 3, 2018"],
 [3591991,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 8, 2018"],
-[3526393,"Southern Rockhopper Penguin","https://i.imgur.com/u2BDkPv.png","Purchased from the Pointies Shop for <b>350 pointies</b>.","January 8, 2018"],
+[3591991,"Southern Rockhopper Penguin","https://i.imgur.com/u2BDkPv.png","Purchased from the Pointies Shop for <b>350 pointies</b>.","January 8, 2018"],
 [3591991,"<i>Stokesosaurus clevelandi</i>","https://i.imgur.com/nfOP13S.png","Purchased from the Pointies Shop for <b>600 pointies</b>.","January 3, 2018"],
 
 //kepperbob
