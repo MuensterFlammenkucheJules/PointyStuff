@@ -207,6 +207,7 @@ users : [
 [3526597,"Dodo","https://i.imgur.com/FkfaLlZ.png","Won from firework #7 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 [3526597,"<i>Stokesosaurus clevelandi</i>","https://i.imgur.com/nfOP13S.png","Won from firework #29 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 4, 2018"],
 [3526597,"Red Panda","https://i.imgur.com/VD7WiSJ.png","Thanks for helping me out! ~ Ignacio","January 6, 2018"],
+[3526597,"Giant Panda","https://i.imgur.com/BJnaclI.png","Won from firework #13 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 16, 2018"],
 
 //Cheshire Litten
 [3990249,"<i>Therizinosaurus cheloniformis</i>","https://i.imgur.com/attuE5a.png","Merry Christmas and a happy New Year!","January 1, 2018"],
