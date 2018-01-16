@@ -63,6 +63,7 @@ users : [
 
 //ZoologicalBotanist
 [6136261,"Ivory-Billed Woodpecker","https://i.imgur.com/VzTNOZZ.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[6136261,"Red Panda","https://i.imgur.com/VD7WiSJ.png","Won from firework #20 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 16, 2018"],
 
 //Jules
 [3525512,"Javan Rhinoceros","https://i.imgur.com/iK1Sa8j.png","Won from firework #6 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 4, 2018"],
@@ -141,7 +142,7 @@ users : [
 
 //Viggen
 [3728433,"Mantis Shrimp","https://i.imgur.com/0mc2jwv.png","Merry Christmas and a happy New Year!","January 1, 2018"],
-[3728433,"<i>Velociraptor mongoliensis</i>","https://i.imgur.com/79Ww3wx.png","Won from firework #31 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 16, 2018"],
+[3728433,"<i>Velociraptor mongoliensis</i>","https://i.imgur.com/IbeBVyl.png","Won from firework #31 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 16, 2018"],
 
 //Burns
 [3638429,"Black-and-White Ruffed Lemur","https://i.imgur.com/Tz2Zbhh.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -204,7 +205,7 @@ users : [
 [3591287,"Axolotl","https://i.imgur.com/3TkHZfY.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [3591287,"Koala","https://i.imgur.com/28aVQLY.png","Purchased from the Pointies Shop for <b>650 pointies</b>.","January 3, 2018"],
 [3591287,"Red Panda","https://i.imgur.com/VD7WiSJ.png","Purchased from the Pointies Shop for <b>500 pointies</b>.","January 3, 2018"],
-[3591287,"<i>Velociraptor mongoliensis</i>","https://i.imgur.com/79Ww3wx.png","Won from firework #2 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 16, 2018"],
+[3591287,"<i>Velociraptor mongoliensis</i>","https://i.imgur.com/IbeBVyl.png","Won from firework #2 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 16, 2018"],
 
 //Thom
 [3526597,"Platypus","https://i.imgur.com/XaO93tB.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -423,7 +424,7 @@ users : [
 
 //Sergio
 [4047746,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 2, 2018"],
-[4047746,"<i>Velociraptor mongoliensis</i>","https://i.imgur.com/ny9CJzo.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[4047746,"<i>Velociraptor mongoliensis</i>","https://i.imgur.com/PxzZ6H8.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [4047746,"Koala","https://i.imgur.com/28aVQLY.png","Won from firework #7 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 4, 2018"],
 
 //Furka
