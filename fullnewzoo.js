@@ -333,7 +333,7 @@ users : [
 //SLGray
 [3526222,"Humpback Whale","https://i.imgur.com/A2JEZzV.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [3526222,"Green Sea Turtle","https://i.imgur.com/pD1qSQ7.png","Purchased from the Pointies Shop for <b>500 pointies</b>.","January 2, 2018"],
-[3526222,"Orca","https://i.imgur.com/dBvFYGM.png","Purchased from the Pointies Shop for <b>500 pointies</b>.","January 2, 2018"],
+[3526222,"Orca","https://i.imgur.com/dBvFYGM.png","Purchased from the Pointies Shop for <b>1000 pointies</b>.","January 2, 2018"],
 
 //ZS1972
 [4228609,"Secretary Bird","https://i.imgur.com/f4wjcti.png","Merry Christmas and a happy New Year!","January 1, 2018"],
