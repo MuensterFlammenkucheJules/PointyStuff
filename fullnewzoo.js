@@ -130,6 +130,7 @@ users : [
 [3465774,"Bengal Tiger","https://i.imgur.com/Xxgb54W.png","Purchased from the Pointies Shop for <b>800 pointies</b>.","January 1, 2018"],
 [3465774,"Javan Rhinoceros","https://i.imgur.com/iK1Sa8j.png","Purchased from the Pointies Shop for <b>1200 pointies</b>.","January 1, 2018"],
 [3465774,"American Mastodon","https://i.imgur.com/ediNzEz.png","Won from firework #22 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
+[3465774,"Koala","https://i.imgur.com/28aVQLY.png","Purchased from the Pointies Shop for <b>650 pointies</b>.","January 26, 2018"],
 
 //antek234
 [6103681,"Spotted Genet","https://i.imgur.com/QMVV9GT.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -259,6 +260,7 @@ users : [
 [3556536,"<i>Majungasaurus crenatissimus</i>","https://i.imgur.com/9tKSaZC.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [3556536,"Dodo","https://i.imgur.com/FkfaLlZ.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 1, 2018"],
 [3556536,"Rock Ptarmigan","https://i.imgur.com/GGhwMSE.png","Third place winner of the <b>Christmas at the Zoo</b> zoobuilding contest.","January 1, 2018"],
+[3556536,"Pygmy Hippopotamus","https://i.imgur.com/sjLjDVD.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 22, 2018"],
 
 //tigerdrake
 [6151109,"Indochinese Tiger","https://i.imgur.com/oElCs08.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -295,6 +297,7 @@ users : [
 
 //Anthracite
 [6072746,"Banded Garden Snail","https://i.imgur.com/MMTviVJ.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[6072746,"Grey Wolf","https://i.imgur.com/wZfJnFw.png","Purchased from the Pointies Shop for <b>600 pointies</b>.","January 25, 2018"],
 
 //Zhadow
 [3907997,"Jaguar","https://i.imgur.com/tEhdtj9.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -312,7 +315,7 @@ users : [
 [3526525,"Grandidier's Mongoose","https://i.imgur.com/jQ7NmI3.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [3526525,"Koala","https://i.imgur.com/28aVQLY.png","Because otherwise we'd still be excluding dropbears. ~ Anton","January 4, 2018"],
 [3526525,"Common Bottlenose Dolphin","https://i.imgur.com/r5WKLrE.png","Won from firework #16 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 4, 2018"],
-[3526525,"Common Pygmy Hippopotamus","https://i.imgur.com/sjLjDVD.png","Won from firework #23 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 16, 2018"],
+[3526525,"Pygmy Hippopotamus","https://i.imgur.com/sjLjDVD.png","Won from firework #23 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 16, 2018"],
 
 //Hmida0123
 [4072455,"Asian Elephant","https://i.imgur.com/jBFj4T1.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -403,6 +406,9 @@ users : [
 
 //stargatedalek
 [3565764,"<i>Kronosaurus boyacensis</i>","https://i.imgur.com/LShB0hI.png","Third place winner of the <b>Hometown Zoo</b> zoobuilding contest.","January 1, 2018"],
+[3565764,"Dodo","https://i.imgur.com/FkfaLlZ.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 18, 2018"],
+[3565764,"<i>Velociraptor mongoliensis</i>","https://i.imgur.com/IbeBVyl.png","Purchased from the Pointies Shop for <b>550 pointies</b>.","January 18, 2018"],
+[3565764,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 18, 2018"],
 
 //Keiko
 [4070139,"Orca","https://i.imgur.com/fljlqnd.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -424,6 +430,7 @@ users : [
 //Dinosaure99
 [3527830,"African Buffalo","https://i.imgur.com/v72U2oQ.png","Purchased from the Pointies Shop for <b>750 pointies</b>.","January 1, 2018"],
 [3527830,"Polar Bear","https://i.imgur.com/1RmEgNL.png","Won from firework #28 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 4, 2018"],
+[3527830,"Giant Panda","https://i.imgur.com/4a6rokZ.png","Purchased from the Pointies Shop for <b>1000 pointies</b>.","January 18, 2018"],
 
 //KoenZoo
 [4055238,"Javan Rhinoceros","https://i.imgur.com/iK1Sa8j.png","Purchased from the Pointies Shop for <b>1200 pointies</b>.","January 1, 2018"],
@@ -438,6 +445,7 @@ users : [
 [4047746,"<i>Velociraptor mongoliensis</i>","https://i.imgur.com/PxzZ6H8.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [4047746,"<i>Velociraptor mongoliensis</i>","https://i.imgur.com/IbeBVyl.png","Purchased from the Pointies Shop for <b>550 pointies</b>.","January 18, 2018"],
 [4047746,"Koala","https://i.imgur.com/28aVQLY.png","Won from firework #7 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 4, 2018"],
+[4047746,"Thomson's Gazelle","https://i.imgur.com/bGSxWDP.png","Music is the soul of life! ~ Narukota","January 22, 2018"],
 
 //Furka
 [3525948,"Black Crested Gibbon","https://i.imgur.com/cAwa4Oe.png","Won from firework #23 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
@@ -501,6 +509,9 @@ users : [
 
 //keenakeen1
 [4184004,"Blue Peafowl (male)","https://i.imgur.com/C2vTIXB.png","Purchased from the Pointies Shop for <b>250 pointies</b>.","January 18, 2018"],
+
+//tknoff87
+[4045773,"American Mastodon","https://i.imgur.com/ediNzEz.png","Won from firework #27 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 18, 2018"],
 ]
 
 }
