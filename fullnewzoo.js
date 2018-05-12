@@ -113,7 +113,7 @@ users : [
 [3543875,"Ornate Hawk-Eagle","https://i.imgur.com/YDJeWlC.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [3543875,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Won from firework #32 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 [3543875,"Southern Rockhopper Penguin","https://i.imgur.com/u2BDkPv.png","Thanks for being my friend. Have a fish chicken. ~ Acinonyx Jubatus","January 3, 2018"],
-[3543875,"Common Goldeneye","https://i.imgur.com/kTbQPPy.png","Saw the most species during January in the <b>Big Year 2018</b> topic.","February 1, 2018"],
+[3543875,"Common Goldeneye","https://i.imgur.com/gQOpxl8.png","Saw the most species during January in the <b>Big Year 2018</b> topic.","February 1, 2018"],
 
 //caviar
 [3524063,"Andean Motmot","https://i.imgur.com/eQy1Fg3.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -385,7 +385,7 @@ users : [
 [3526393,"Blue Peafowl (male)","https://i.imgur.com/C2vTIXB.png","Thanks for all your hard work, even though it wasn't asked of you. Was v generous of you to give of your time and effort for us ~ magpiealamode","January 1, 2018"],
 [3526393,"Red Panda","https://i.imgur.com/VD7WiSJ.png","Won from firework #22 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 16, 2018"],
 [3526393,"Southern Rockhopper Penguin","https://i.imgur.com/u2BDkPv.png","Purchased from the Pointies Shop for <b>350 pointies</b>.","January 2, 2018"],
-[3526393,"Ross' Gull","https://i.imgur.com/IG0HEYK.png","Saw the most species during February in the <b>Big Year 2018</b> topic.","March 1, 2018"],
+[3526393,"Ross' Gull","https://i.imgur.com/7OldFfv.png","Saw the most species during February in the <b>Big Year 2018</b> topic.","March 1, 2018"],
 [3526393,"Western Rock Nuthatch","https://i.imgur.com/LRvRgSJ.png","Saw the most species during April in the <b>Big Year 2018</b> topic.","May 1, 2018"],
 
 //Zoo Tycooner FR
@@ -520,7 +520,7 @@ users : [
 [4045773,"American Mastodon","https://i.imgur.com/ediNzEz.png","Won from firework #27 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 18, 2018"],
 
 //-Vombat-
-[3877432,"Saola","https://i.imgur.com/b7ApqdW.png","Second place winner of the RTZI's <b>2018 Wishes</b> contest.","February 5, 2018"],
+[3877432,"Saola","https://i.imgur.com/WMDEZdP.png","Second place winner of the RTZI's <b>2018 Wishes</b> contest.","February 5, 2018"],
 ]
 
 }
