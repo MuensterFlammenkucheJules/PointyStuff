@@ -448,6 +448,7 @@ users : [
 [3527830,"African Buffalo","https://i.imgur.com/v72U2oQ.png","Purchased from the Pointies Shop for <b>750 pointies</b>.","January 1, 2018"],
 [3527830,"Polar Bear","https://i.imgur.com/1RmEgNL.png","Won from firework #28 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 4, 2018"],
 [3527830,"Giant Panda","https://i.imgur.com/4a6rokZ.png","Purchased from the Pointies Shop for <b>1000 pointies</b>.","January 18, 2018"],
+[3527830,"Javan Rhinoceros","https://i.imgur.com/iK1Sa8j.png","Won as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","February 11, 2018"],
 
 //KoenZoo
 [4055238,"Javan Rhinoceros","https://i.imgur.com/iK1Sa8j.png","Purchased from the Pointies Shop for <b>1200 pointies</b>.","January 1, 2018"],
