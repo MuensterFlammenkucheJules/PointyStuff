@@ -100,12 +100,12 @@ users : [
 [4237659,"Baird's Tapir","https://i.imgur.com/uUnOWye.png","Won from firework #20 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 
 //Scott
+[3525967,"Pygmy Hippopotamus","https://i.imgur.com/sjLjDVD.png","Won from firework #19 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","February 25, 2018"],
 [3525967,"African Buffalo","https://i.imgur.com/v72U2oQ.png","Purchased from the Pointies Shop for <b>750 pointies</b>.","January 3, 2018"],
 [3525967,"Masai Giraffe","https://i.imgur.com/fyZRRwU.png","Purchased from the Pointies Shop for <b>700 pointies</b>.","January 3, 2018"],
 [3525967,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 3, 2018"],
 [3525967,"Rainbow Agama","https://i.imgur.com/yL6svGb.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [3525967,"Bengal Tiger","https://i.imgur.com/Xxgb54W.png","Won from firework #24 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
-[3525967,"Pygmy Hippopotamus","https://i.imgur.com/sjLjDVD.png","Won from firework #19 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","February 25, 2018"],
 
 //Imperator Furiosa
 [4132534,"African Forest Elephant","https://i.imgur.com/EcFfJI4.png","Merry Christmas and a happy New Year!","January 1, 2018"],
