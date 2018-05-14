@@ -31,6 +31,7 @@ users : [
 [4004388,"Dodo","https://i.imgur.com/FkfaLlZ.png","Won from firework #18 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
 [4004388,"Koala","https://i.imgur.com/28aVQLY.png","Won from firework #21 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 4, 2018"],
 [4004388,"African Buffalo","https://i.imgur.com/v72U2oQ.png","Purchased from the Pointies Shop for <b>750 pointies</b>.","January 18, 2018"],
+[4004388,"Blacktip Reef Shark","https://i.imgur.com/Owl5xPK.png","Won as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","February 17, 2018"],
 
 //RGDS
 [6067973,"Tonkin Snub-Nosed Monkey","https://i.imgur.com/KyLKGnj.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -104,6 +105,7 @@ users : [
 [3525967,"Secretary Bird","https://i.imgur.com/WvFtUAl.png","Purchased from the Pointies Shop for <b>400 pointies</b>.","January 3, 2018"],
 [3525967,"Rainbow Agama","https://i.imgur.com/yL6svGb.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [3525967,"Bengal Tiger","https://i.imgur.com/Xxgb54W.png","Won from firework #24 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 2, 2018"],
+[3525967,"Pygmy Hippopotamus","https://i.imgur.com/sjLjDVD.png","Won from firework #19 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","February 25, 2018"],
 
 //Imperator Furiosa
 [4132534,"African Forest Elephant","https://i.imgur.com/EcFfJI4.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -149,7 +151,10 @@ users : [
 
 //Viggen
 [3728433,"Mantis Shrimp","https://i.imgur.com/0mc2jwv.png","Merry Christmas and a happy New Year!","January 1, 2018"],
+[3728433,"American Mastodon","https://i.imgur.com/ediNzEz.png","Purchased from the Pointies Shop for <b>1000 pointies</b>.","February 11, 2018"],
 [3728433,"<i>Velociraptor mongoliensis</i>","https://i.imgur.com/IbeBVyl.png","Won from firework #31 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 16, 2018"],
+[3728433,"Green Sea Turtle","https://i.imgur.com/pD1qSQ7.png","Purchased from the Pointies Shop for <b>500 pointies</b>.","February 11, 2018"],
+[3728433,"Aardvark","https://i.imgur.com/vaq6Uu0.png","Purchased from the Pointies Shop for <b>500 pointies</b>.","February 11, 2018"],
 
 //Burns
 [3638429,"Black-and-White Ruffed Lemur","https://i.imgur.com/Tz2Zbhh.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -165,7 +170,10 @@ users : [
 [3537401,"Bengal Tiger","https://i.imgur.com/Xxgb54W.png","Purchased from the Pointies Shop for <b>800 pointies</b>.","January 1, 2018"],
 [3537401,"Dromedary Camel","https://i.imgur.com/VKI4o33.png","Won from firework #9 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 4, 2018"],
 [3537401,"Aardvark","https://i.imgur.com/vaq6Uu0.png","Won from firework #16 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 16, 2018"],
+[3537401,"Polar Bear","https://i.imgur.com/1RmEgNL.png","Purchased from the Pointies Shop for <b>850 pointies</b>.","January 31, 2018"],
 [3537401,"Scimitar-Horned Oryx","https://i.imgur.com/9uOKgFe.png","First place winner of the RTZI's <b>2018 Wishes</b> contest.","February 5, 2018"],
+[3537401,"Javan Rhinoceros","https://i.imgur.com/iK1Sa8j.png","There you go my love <3 ~ Murdock129","January 29, 2018"],
+[3537401,"Pygmy Hippopotamus","https://i.imgur.com/sjLjDVD.png","I love you so much, you're the best fiance in the world <3 ~ Murdock129","January 29, 2018"],
 
 //magpiealamode
 [4221754,"<i>Lokotunjailurus emageritus</i>","https://i.imgur.com/uHwd6Un.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -283,6 +291,7 @@ users : [
 [3553036,"Red Panda","https://i.imgur.com/VD7WiSJ.png","Purchased from the Pointies Shop for <b>500 pointies</b>.","January 4, 2018"],
 [3553036,"Saola","https://i.imgur.com/h0MFYbO.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [3553036,"<i>Stokesosaurus clevelandi</i>","https://i.imgur.com/nfOP13S.png","Purchased from the Pointies Shop for <b>600 pointies</b>.","January 4, 2018"],
+[3553036,"<i>Velociraptor mongoliensis</i>","https://i.imgur.com/IbeBVyl.png","Purchased from the Pointies Shop for <b>550 pointies</b>.","February 5, 2018"],
 
 //Panthera Onca
 [6148649,"Jaguar","https://i.imgur.com/tEhdtj9.png","Merry Christmas and a happy New Year!","January 1, 2018"],
@@ -348,6 +357,7 @@ users : [
 //SLGray
 [3526222,"Humpback Whale","https://i.imgur.com/A2JEZzV.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [3526222,"Green Sea Turtle","https://i.imgur.com/pD1qSQ7.png","Purchased from the Pointies Shop for <b>500 pointies</b>.","January 2, 2018"],
+[3526222,"Blacktip Reef Shark","https://i.imgur.com/Owl5xPK.png","Purchased from the Pointies Shop for <b>450 pointies</b>.","February 16, 2018"],
 [3526222,"Orca","https://i.imgur.com/dBvFYGM.png","Purchased from the Pointies Shop for <b>1000 pointies</b>.","January 2, 2018"],
 
 //ZS1972
@@ -392,6 +402,7 @@ users : [
 [3958058,"Long-Tailed Manakin","https://i.imgur.com/hWFwviu.png","Merry Christmas and a happy New Year!","January 1, 2018"],
 [3958058,"Black Wildebeest","https://i.imgur.com/KdEaj6N.png","First place winner of the <b>Hometown Zoo</b> zoobuilding contest.","January 1, 2018"],
 [3958058,"Polar Bear","https://i.imgur.com/Xqtskab.png","Second place winner of the <b>Postcards from the North Pole</b> ingame photography contest.","January 1, 2018"],
+[3958058,"Dodo","https://i.imgur.com/FkfaLlZ.png","Generic roast ~ magpiealamode","January 31, 2018"],
 
 //Rangifer
 [4045803,"Grassland Hedgehound","https://i.imgur.com/y4NKRhp.png","Second place winner of the <b>Creature Creation V4</b> contest.","January 1, 2018"],
@@ -520,7 +531,19 @@ users : [
 [4045773,"American Mastodon","https://i.imgur.com/ediNzEz.png","Won from firework #27 as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","January 18, 2018"],
 
 //-Vombat-
+[3877432,"Baird's Tapir","https://i.imgur.com/uUnOWye.png","Purchased from the Pointies Shop for <b>650 pointies</b>.","February 5, 2018"],
 [3877432,"Saola","https://i.imgur.com/WMDEZdP.png","Second place winner of the RTZI's <b>2018 Wishes</b> contest.","February 5, 2018"],
+
+//Murdock129
+[3563352,"Green Sea Turtle","https://i.imgur.com/pD1qSQ7.png","Here is a little Neptune for you until you can see them again! <3 ~ Azrael","January 29, 2018"],
+[3563352,"Blacktip Reef Shark","https://i.imgur.com/Owl5xPK.png","And here is a Nigel for you. I love you Jamesy <3 You're the best fiance in the world. <3 ~ Azrael","January 29, 2018"],
+
+//ChunkMasterBlast
+[6013722,"Blacktip Reef Shark","https://i.imgur.com/Owl5xPK.png","Won as part of 2018's New Year Festival's <b>Shoot a firework rocket!</b> game.","February 6, 2018"],
+
+//The Man in Black
+[3526669,"Bengal Tiger","https://i.imgur.com/Xxgb54W.png","Purchased from the Pointies Shop for <b>800 pointies</b>.","February 14, 2018"],
+[3526669,"African Buffalo","https://i.imgur.com/v72U2oQ.png","Purchased from the Pointies Shop for <b>750 pointies</b>.","February 14, 2018"],
 ]
 
 }
